@@ -34,13 +34,12 @@
 // ==/UserScript==
 
 // Array of words to change.
-// Unsorted
+// Section: Unsorted
 var es = new Array();
 es["Home"] = "Kelutral";
 es["No"] = "Kehe";
 es["Yes"] = "Srane";
 es["Maybe"] = "Kxawm";
-es["News Feed"] = "Fmawnä Payfya";
 es["Friends"] = "Eylan";
 es["Like"] = "Sunu";
 es["Unlike"] = "Sunu ke";
@@ -81,19 +80,6 @@ es["Account Settings"] = "Fìpoä Sìfkeytok";
 es["Privacy Settings"] = "Le'aw 'awpoä Sìfkeytok";
 es["Log out"] = "Hum";
 es["Help"] = "Srung";
-es["and"] = "sì";
-es["Photos"] = "Ayrel";
-es["Music"] = "Pamtseo";
-es["Notes"] = "Famreltsyìp";
-es["Questions"] = "Sìpawm";
-es["Links"] = "Saheylu";
-es["Apps and Games"] = "Sìkangkemvi sì Ayuvan";
-es["Apps"] = "Tìkangkemvi";
-es["Pages"] = "Ayrìk";
-es["Groups"] = "Fongu";
-es["Events"] = "Sìlen";
-es["Messages"] = "Upxare";
-es["Favourites"] = "Oeyä sweya ayu";
 es["Facebook"] = "Keypuk";
 es["Use webcam"] = "Sar kusrrnekxti rusikxa ayrelä";
 es["English (US)"] = "'Ìnglìsì (Yu.E.Sey.)";
@@ -117,7 +103,7 @@ es["Friend activity"] = "Tìn eylanä";
 es["Photos"] = "Ayrel";
 es["See all"] = "Kame nìwotx";
 es["Recommended Pages"] = "Lawnawka Ayrìk";
-es["Discover new games"] = "Run mipa ayuvanti";
+// es["Discover new games"] = "Run mipa ayuvanti";
 es["Find friends"] = "Run eylanit";
 es["Product/Service"] = "Kìte'e";
 es["Life event"] = "Tìlen tìreyä";
@@ -131,7 +117,7 @@ es["Map"] = "Atxkxerel";
 es["Born"] = "'Amongokx";
 es["Richard Littauer"] = "Taronyu"; // Just for me. :D
 es["See friendship"] = "Tse'a tì'eylanti";
-es["Sponsored"] = "Awneyk";
+// es["Sponsored"] = "Awneyk";
 es["Create an advert"] = "Ngop nusewìt";
 es["Subscriptions"] = "Tsawne'a";
 es["More Recent Activity"] = "";
@@ -179,8 +165,46 @@ es["Unfollow post"] = "Ftang nirvong kìng";
 es["No new requests"] = "Kea mipa ayätxäle.";
 es["You like this"] = "Fì'u sunu.";
 // es["There are no more posts to show."] = ""; 
+// es["commented on your"] = "";
+es["Hidden Activity..."] = "";
+es["Follow post"] = "";
+es["Birthdays"] = "";
+es["See more"] = "";
 
-// Months and dates
+// Section: Sidebar
+// es["and"] = "sì";
+// es["Photos"] = "Ayrel";
+// es["Music"] = "Pamtseo";
+// es["Notes"] = "Famreltsyìp";
+// es["Questions"] = "Sìpawm";
+// es["Links"] = "Saheylu";
+// es["Apps and Games"] = "Sìkangkemvi sì Ayuvan";
+// es["Apps"] = "Tìkangkemvi";
+// es["Pages"] = "Ayrìk";
+// es["Groups"] = "Fongu";
+// es["Events"] = "Sìlen";
+// es["Messages"] = "Upxare";
+// es["News Feed"] = "Fmawnä Payfya";
+// es["Favourites"] = "Oeyä sweya ayu";
+// es["MORE"] = "NÌ'UL";
+
+// Section: Groups
+es["Open Group"] = "";
+es["Chat with group"] = "";
+es["Edit Group"] = "";
+es["Write post"] = "";
+es["Group Info"] = "";
+es["Who else should be in this group?"] = "";
+es["Report Group"] = "";
+es["Provide Feedback"] = "";
+es["Leave Group"] = "";
+es["On"] = "";
+es["Off"] = "";
+es["Settings..."] = "";
+es["Choose a unique image for your group"] = "";
+es["Add friends to group"] = "Sung eylanit pongune";
+
+// Section: Months and dates
 es["Friday"] = "Trrpuve";
 es["Monday"] = "Trrmuve";
 es["Tuesday"] = "Trrpxeyve";
@@ -201,7 +225,7 @@ es["October"] = "Vomuvea vospxì";
 es["November"] = "Vopeyvea vospxì";
 es["December"] = "Vosìvea vospxì";
 
-// Photos
+// Section: Photos
 es["Add a description"] = "Sung tìsla'tsut";
 es["Tag photo"] = "Pesul relit tok?";
 es["Add location"] = "Sung tsenget";
@@ -214,11 +238,15 @@ es["Rotate right"] = "Rikx nìskien";
 es["Download"] = "Kanom";
 es["Make this my Profile picture"] = "Oel new futa oeyä Txìna Ayrel.";
 es["Delete this photo"] = "'Aku fìrelit";
-es["Press esc to close"] = "Ftxey esc fte tstu si";
+es["Press Esc to close"] = "Ftxey esc fte tstu si";
 es["Remove tag"] = "'Aku tstxot";
+// es["Choose from photos..."] = "";
+// es["Upload photo..."] = "";
+// es["Reposition..."] = "";
+// es["Remove..."] = "";
 // es["Cover photos"] = "";
 
-// Friend page.
+// Section: Friend page.
 // es["Search by name"] = "";
 // es["Search by friends of"] = "";
 // es["Search by current city"] = "";
@@ -227,7 +255,7 @@ es["Remove tag"] = "'Aku tstxot";
 // es["Search by home town"] = "";
 // es["Search by interest"] = "";
 
-// Friend profile.
+// Section: Friend profile.
 es["Message"] = "'Upxare si";
 // es["Poke "] = "";
 es["Suggest friends"] = "Mok eylanit";
@@ -249,8 +277,7 @@ es["Music and Videos"] = "Pamtseo sì Rusikxa Rel";
 es["Other activities"] = "Lahea sìlen";
 es["Unsubscribe"] = "Ftang nirvong";
 
-
-// Map page
+// Section: Map page
 // es["All"] = "";
 // es["Place Lived"] = "";
 // es["Trips"] = "";
@@ -265,9 +292,106 @@ es["Unsubscribe"] = "Ftang nirvong";
 // es["University"] = "";
 // es["Get Directions"] = "";
 
-//es[""] = "";
+// Section: About page
+es["Basic info"] = "";
+es["Men"] = "";
+es["Women"] = "";
+es["Men and women"] = "";
+es["Networks"] = "";
+es["Contact info"] = "";
+es["Anniversary"] = "";
+es["Religion"] = "";
+es["Description"] = "";
+es["Political Views"] = "";
+es["What are your religious beliefs?"] = "";
+es["What are your political beliefs?"] = "";
+es["Show my full birthday on my timeline"] = "";
+es["Show only month & day on my timeline"] = "";
+es["Don't show my birthday on my timeline"] = "";
+es["I am"] = "Oe lu";
+es["Select a relation:"] = "";
+es["It's complicated"] = "";
+es["Na'vi"] = "Ayoengeyä lì'fya";
+es["Single"] = "";
+es["Engaged"] = "";
+es["Married"] = "";
+es["Widowed"] = "";
+es["Divorced"] = "";
+es["In an open relationship"] = "";
+es["With"] = "";
+es["Separated"] = "";
+es["Show my sec on my timeline"] = "";
+es["Living"] = "";
+es["Birthday"] = "";
+es["Interested in"] = "";
+es["Relatinship Status"] = "";
+es["Languages"] = "";
+es["Favourite quotations"] = "";
+es["In a relationship"] = "";
+es["Current location"] = "";
+es["Hometown"] = "";
+es["Secondary school"] = "";
+es["University"] = "";
+es["University (postgraduate)"] = "";
+es["Employers"] = "";
+es["Work and education"] = "";
+es["History by year"] = "";
+es["About you"] = "";
+es["Public"] = "";
+es["Friends"] = "";
+es["Friends excpet acquaintances"] = "";
+es["Only me"] = "";
+es["Custom"] = "";
+es["See all lists..."] = "";
+es["Where have you worked?"] = "";
+es["Where did you go to college/university?"] = "";
+es["Add a project"] = "";
+es["Add a class"] = "";
+es["Where did you go to secondary school?"] = "";
+es["Save"] = "";
+es["Finished editing"] = "";
 
-// Broken words
+// Section: Family
+es["Add another family member"] = "";
+es["Remove from family"] = "";
+es["Show on profile"] = "";
+es["Wife"] = "";
+es["Husband"] = "";
+es["Auntie"] = "";
+es["Uncle"] = "";
+es["Aunt"] = "";
+es["Neice"] = "";
+es["Nephew"] = "";
+es["Cousin (female)"] = "";
+es["Cousin (male)"] = "";
+es["Grandmother"] = "";
+es["Grandfather"] = "";
+es["Granddaughter"] = "";
+es["Grandson"] = "";
+es["Stepmother"] = "";
+es["Stepfather"] = "";
+es["Stepsister"] = "";
+es["Stepbrother"] = "";
+es["Stepdaughter"] = "";
+es["Stepson"] = "";
+es["Relationship"] = "";
+es["Family"] = "";
+es["Brother"] = "";
+es["Sister"] = "";
+es["Father"] = "";
+es["Mother"] = "";
+es["Brother (Pending)"] = "";
+es["Sister (Pending)"] = "";
+es["Sister-in-law"] = "";
+es["Brother-in-law"] = "";
+es["Father-in-law"] = "";
+es["Mother-in-law"] = "";
+es["Son-in-law"] = "";
+es["Daughter-in-law"] = "";
+es["Partner (male)"] = "";
+es["Partner (female)"] = "";
+
+// Section: Broken words (These don't work with the script yet.)
 // es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
 // es["Go Offline to "] = "Wan ftu "; doesn't work
 // es["Search"] = "Fwew"; 
