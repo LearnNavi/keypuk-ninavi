@@ -31,6 +31,7 @@
 // @namespace     https://github.com/RichardLitt/keypuk-ninavi
 // @description   script to change the Facebook
 // @include       http://www.facebook.com/*
+// @include       https://www.facebook.com/*
 // ==/UserScript==
 
 // Array of words to change.
