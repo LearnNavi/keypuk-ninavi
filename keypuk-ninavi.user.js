@@ -1,8 +1,8 @@
 // Keypuk nìNa'vi! v .1
 // Translated and edited by Richard Littauer
-// No (c) on the translations, whatsoever. 
-// https://github.com/RichardLitt/Other-Codes/blob/master/keypuk-ninavi.user.js
-// 
+// No (c) on the translations, whatsoever.
+// https://github.com/RichardLitt/keypuk-ninavi
+//
 // Based on:
 // Secwepemc Facebook!
 // version 0.1 BETA!
@@ -28,12 +28,13 @@
 //
 // ==UserScript==
 // @name          Nìna'vi Facebook
-// @namespace     https://github.com/RichardLitt/Other-Codes
+// @namespace     https://github.com/RichardLitt/keypuk-ninavi
 // @description   script to change the Facebook
 // @include       http://www.facebook.com/*
 // ==/UserScript==
 
-//Array of words to change.
+// Array of words to change.
+// Unsorted
 var es = new Array();
 es["Home"] = "Kelutral";
 es["No"] = "Kehe";
@@ -64,16 +65,6 @@ es["See All"] = "Tse'a Nìwotx";
 es["Who's invited?"] = "Pesu ziva'u?";
 es["This Month"] = "Fìvospxì";
 es["Share"] = "Käsrin fì'ut";
-es["shared a"] = "käsrin";
-es["via"] = "ìlä";
-es["Friday"] = "Trrpuve";
-es["Monday"] = "Trrmuve";
-es["Tuesday"] = "Trrpxeyve";
-es["Wednesday"] = "Trrtsìve";
-es["Thursday"] = "Trrmrrve";
-es["Saturday"] = "Trrkive";
-es["Sunday"] = "Trr'awve";
-es["minutes ago"] = "ayswawkam";
 es["Who are you with?"] = "Pesumì nga lu?";
 es["Where are you?"] = "Tsengpe nga lu?";
 es["via Twitter"] = "ìlä Yayotsyìp"; 
@@ -129,19 +120,16 @@ es["Recommended Pages"] = "Lawnawka Ayrìk";
 es["Discover new games"] = "Run mipa ayuvanti";
 es["Find friends"] = "Run eylanit";
 es["Product/Service"] = "Kìte'e";
-es["Lives in"] = "Kelku si mì";
-es["In a relationship with"] = "Muntxa susi mì";
 es["Life event"] = "Tìlen tìreyä";
 es["Place"] = "Tsenge";
 es["Photo"] = "Rel";
 es["Status"] = "Tìfkeytok";
-es["mutual friends"] = "tsaheylu tì'eylanä";
 es["Update info"] = "Leykatem säomumit";
 es["Activity log"] = "Sìnä 'ok";
 es["Likes"] = "Susunua ayfì'u";
 es["Map"] = "Atxkxerel";
 es["Born"] = "'Amongokx";
-es["Richard Littauer"] = "Skxawng Makto alu Taronyu";
+es["Richard Littauer"] = "Taronyu"; // Just for me. :D
 es["See friendship"] = "Tse'a tì'eylanti";
 es["Sponsored"] = "Awneyk";
 es["Create an advert"] = "Ngop nusewìt";
@@ -168,18 +156,6 @@ es["Select an image or video file on your computer"] = "Ftxey relit fu relit aru
 es["Choose file"] = "Ftxey 'uoti";
 es["No file chosen"] = "Ke'ut ke ftxoley"
 es["Add year"] = "Sung zìsìtit";
-es["January"] = "'Awvea vospxì";
-es["February"] = "Muvea vospxì";
-es["March"] = "Pxeyvea vospxì";
-es["April"] = "Tsìvea vospxì";
-es["May"] = "Mrrvea vospxì";
-es["June"] = "Puvea vospxì";
-es["July"] = "Kivea vospxì";
-es["August"] = "Volvea vospxì";
-es["September"] = "Volawvea vospxì";
-es["October"] = "Vomuvea vospxì";
-es["November"] = "Vopeyvea vospxì";
-es["December"] = "Vosìvea vospxì";
 es["Change Cover"] = "Leykatem Keyit";
 es["Edit Profile Picture"] = "Leykatem Txina Relit";
 es["Chat Sounds"] = "Puslltxea Fam";
@@ -200,6 +176,32 @@ es["See Full Conversation"] = "Tse'a puslltxet nìwotx";
 es["Clear window"] = "Law si nìwotx";
 es["Report as spam"] = "Kulat na tìkawng";
 es["Unfollow post"] = "Ftang nirvong kìng";
+es["No new requests"] = "Kea mipa ayätxäle.";
+es["You like this"] = "Fì'u sunu.";
+// es["There are no more posts to show."] = ""; 
+
+// Months and dates
+es["Friday"] = "Trrpuve";
+es["Monday"] = "Trrmuve";
+es["Tuesday"] = "Trrpxeyve";
+es["Wednesday"] = "Trrtsìve";
+es["Thursday"] = "Trrmrrve";
+es["Saturday"] = "Trrkive";
+es["Sunday"] = "Trr'awve";
+es["January"] = "'Awvea vospxì";
+es["February"] = "Muvea vospxì";
+es["March"] = "Pxeyvea vospxì";
+es["April"] = "Tsìvea vospxì";
+es["May"] = "Mrrvea vospxì";
+es["June"] = "Puvea vospxì";
+es["July"] = "Kivea vospxì";
+es["August"] = "Volvea vospxì";
+es["September"] = "Volawvea vospxì";
+es["October"] = "Vomuvea vospxì";
+es["November"] = "Vopeyvea vospxì";
+es["December"] = "Vosìvea vospxì";
+
+// Photos
 es["Add a description"] = "Sung tìsla'tsut";
 es["Tag photo"] = "Pesul relit tok?";
 es["Add location"] = "Sung tsenget";
@@ -214,16 +216,44 @@ es["Make this my Profile picture"] = "Oel new futa oeyä Txìna Ayrel.";
 es["Delete this photo"] = "'Aku fìrelit";
 es["Press esc to close"] = "Ftxey esc fte tstu si";
 es["Remove tag"] = "'Aku tstxot";
-es["No new requests"] = "Kea mipa ayätxäle.";
-es["You like this"] = "Fì'u sunu.";
+// es["Cover photos"] = "";
 
-// es["There are no more posts to show."] = ""; 
+// Friend page.
+// es["Search by name"] = "";
+// es["Search by friends of"] = "";
+// es["Search by current city"] = "";
+// es["Search by school"] = "";
+// es["Search by workplace"] = "";
+// es["Search by home town"] = "";
+// es["Search by interest"] = "";
+
+// Map page
+// es["All"] = "";
+// es["Place Lived"] = "";
+// es["Trips"] = "";
+// es["Life Event"] = "";
+// es["Add Photos to Map"] = "";
+// es["Country"] = "";
+// es["Edit place details"] = "";
+// es["City"] = "";
+// es["Show comments"] = "";
+// es["Local business"] = "";
+// es["Historical place"] = "";
+// es["University"] = "";
+// es["Get Directions"] = "";
+
 //es[""] = "";
 
 // Broken words
 // es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
 // es["Go Offline to "] = "Wan ftu "; doesn't work
 // es["Search"] = "Fwew"; 
+// es["shared a"] = "käsrin";
+// es["via"] = "ìlä";
+// es["Lives in"] = "Kelku si mì";
+// es["In a relationship with"] = "Muntxa susi mì";
+// es["mutual friends"] = "tsaheylu tì'eylanä";
+// es["minutes ago"] = "ayswawkam";
 
 //Basic Tag altering.
 function translate_tag(tag) {
