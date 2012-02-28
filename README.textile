@@ -2,12 +2,11 @@ Keypuk NìNa'vi
 
 A Greasemonkey Userscript to alter Facebook to display words in Na'vi.
 
-Discussion and community page:
-http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-(navi-facebook-project)
+"Discussion and community page":http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-(navi-facebook-project)
 
-The code is from Secwepemc Facebook. The translations are our own, as well as any modifications. The original github is here: https://github.com/neskie/secwepemc-facebook, but is no longer updated, as sadly Manuel Neski has passed away. We are extremely grateful for his work. 
+The code is from Secwepemc Facebook. The translations are our own, as well as any modifications. The original github is "here":https://github.com/neskie/secwepemc-facebook, but is no longer updated, as sadly Manuel Neski has passed away. We are extremely grateful for his work. 
 
-This is a workaround to the official Facebook "Translations App" at http://www.facebook.com/translations/, as Na'vi is not listed and has not been for two years. 
+This is a workaround to the official Facebook "Translations App":http://www.facebook.com/translations/, as Na'vi is not listed and has not been for two years. 
 
 ========================================================================
 
@@ -35,4 +34,4 @@ This includes:
 
 3. Work your way to "Facebook":http://www.facebook.com, and some of the text should be translated.
 
-4. Enjoy Facebook in Na'vi.
+4. Enjoy Facebook in Na'vi. For more language resources, go to "Learn Na'vi":http://www.learnnavi.org
