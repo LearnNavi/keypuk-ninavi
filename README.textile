@@ -1,0 +1,38 @@
+Keypuk NìNa'vi
+
+A Greasemonkey Userscript to alter Facebook to display words in Na'vi.
+
+Discussion and community page:
+http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-(navi-facebook-project)
+
+The code is from Secwepemc Facebook. The translations are our own, as well as any modifications. The original github is here: https://github.com/neskie/secwepemc-facebook, but is no longer updated, as sadly Manuel Neski has passed away. We are extremely grateful for his work. 
+
+This is a workaround to the official Facebook "Translations App" at http://www.facebook.com/translations/, as Na'vi is not listed and has not been for two years. 
+
+========================================================================
+
+This is a work in progress. Many words will are not currently translateable. There are also many words which have not yet been identified as translatable. The current tasks available are to:
+
+* Identify words that can be translated, and translate them.
+* Fix poor translations.
+* Work to better replace texts to include images which are lost.
+* Work to scrape parts of the page which are not translateable yet.
+* Fix faulty replacements which break the forms.
+
+========================================================================
+
+Installation
+
+1. You will need a browser with the ability to run Greasemonky Userscripts.
+This includes:
+
+ * "Firefox":http://www.mozilla.com/en-US/firefox/firefox.html ("Add on":https://addons.mozilla.org/firefox/addon/748)
+ * "Google Chrome":http://www.google.com/chrome (No Add on required)
+ * "Internet Explorer":http://www.microsoft.com/india/windows/internet-explorer/ ("Add on":http://www.bhelpuri.net/Trixie/)
+ * "Safari":http://www.apple.com/safari/ ("Add on":http://8-p.info/greasekit/).
+
+2. Once you have one of the above browsers ready to run Userscripts.  To install, click "here":https://github.com/RichardLitt/keypuk-ninavi/raw/master/keypuk-ninavi.user.js
+
+3. Work your way to "Facebook":http://www.facebook.com, and some of the text should be translated.
+
+4. Enjoy Facebook in Na'vi.
