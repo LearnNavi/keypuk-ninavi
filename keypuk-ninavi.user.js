@@ -213,6 +213,10 @@ es["Download"] = "Kanom";
 es["Make this my Profile picture"] = "Oel new futa oeyä Txìna Ayrel.";
 es["Delete this photo"] = "'Aku fìrelit";
 es["Press esc to close"] = "Ftxey esc fte tstu si";
+es["Remove tag"] = "'Aku tstxot";
+es["No new requests"] = "Kea mipa ayätxäle.";
+es["You like this"] = "Fì'u sunu.";
+
 // es["There are no more posts to show."] = ""; 
 //es[""] = "";
 
