@@ -171,22 +171,22 @@ es["Follow post"] = "";
 es["Birthdays"] = "";
 es["See more"] = "";
 
-// Section: Sidebar
-// es["and"] = "sì";
-// es["Photos"] = "Ayrel";
-// es["Music"] = "Pamtseo";
-// es["Notes"] = "Famreltsyìp";
-// es["Questions"] = "Sìpawm";
-// es["Links"] = "Saheylu";
-// es["Apps and Games"] = "Sìkangkemvi sì Ayuvan";
-// es["Apps"] = "Tìkangkemvi";
-// es["Pages"] = "Ayrìk";
-// es["Groups"] = "Fongu";
-// es["Events"] = "Sìlen";
-// es["Messages"] = "Upxare";
-// es["News Feed"] = "Fmawnä Payfya";
-// es["Favourites"] = "Oeyä sweya ayu";
-// es["MORE"] = "NÌ'UL";
+/*/ Section: Sidebar
+es["and"] = "sì";
+es["Photos"] = "Ayrel";
+es["Music"] = "Pamtseo";
+es["Notes"] = "Famreltsyìp";
+es["Questions"] = "Sìpawm";
+es["Links"] = "Saheylu";
+es["Apps and Games"] = "Sìkangkemvi sì Ayuvan";
+es["Apps"] = "Tìkangkemvi";
+es["Pages"] = "Ayrìk";
+es["Groups"] = "Fongu";
+es["Events"] = "Sìlen";
+es["Messages"] = "Upxare";
+es["News Feed"] = "Fmawnä Payfya";
+es["Favourites"] = "Oeyä sweya ayu";
+es["MORE"] = "NÌ'UL";
 
 // Section: Groups
 es["Open Group"] = "";
@@ -201,7 +201,7 @@ es["Leave Group"] = "";
 es["On"] = "";
 es["Off"] = "";
 es["Settings..."] = "";
-es["Choose a unique image for your group"] = "";
+es["Choose a unique image for your group"] = ""; */
 es["Add friends to group"] = "Sung eylanit pongune";
 
 // Section: Months and dates
@@ -292,7 +292,7 @@ es["Unsubscribe"] = "Ftang nirvong";
 // es["University"] = "";
 // es["Get Directions"] = "";
 
-// Section: About page
+/*/ Section: About page
 es["Basic info"] = "";
 es["Men"] = "";
 es["Women"] = "";
@@ -391,7 +391,7 @@ es["Daughter-in-law"] = "";
 es["Partner (male)"] = "";
 es["Partner (female)"] = "";
 
-// Section: Broken words (These don't work with the script yet.)
+/*/ Section: Broken words (These don't work with the script yet.)
 // es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
 // es["Go Offline to "] = "Wan ftu "; doesn't work
 // es["Search"] = "Fwew"; 
