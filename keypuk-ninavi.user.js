@@ -292,7 +292,8 @@ es["Unsubscribe"] = "Ftang nirvong";
 // es["University"] = "";
 // es["Get Directions"] = "";
 
-/*/ Section: About page
+/*
+// Section: About page
 es["Basic info"] = "";
 es["Men"] = "";
 es["Women"] = "";
@@ -390,8 +391,9 @@ es["Son-in-law"] = "";
 es["Daughter-in-law"] = "";
 es["Partner (male)"] = "";
 es["Partner (female)"] = "";
+*/
 
-/*/ Section: Broken words (These don't work with the script yet.)
+// Section: Broken words (These don't work with the script yet.)
 // es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
 // es["Go Offline to "] = "Wan ftu "; doesn't work
 // es["Search"] = "Fwew"; 
