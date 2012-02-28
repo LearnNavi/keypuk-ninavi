@@ -138,7 +138,7 @@ es["More Recent Activity"] = "";
 es["View As..."] = "Tse'a na...";
 es["Add a badge to your site"] = "Sung pätsìt ne ngey 'awm";
 es["Edit"] = "Latem";
-es["Timeline"] = "Krrä Payfya";
+es["Timeline"] = "KrrPayfya";
 es["Now"] = "Set";
 es["Use Facebook as:"] = "Sar Keypukit na:";
 es["Translations"] = "Lusatem lì'fya";
@@ -226,6 +226,29 @@ es["Remove tag"] = "'Aku tstxot";
 // es["Search by workplace"] = "";
 // es["Search by home town"] = "";
 // es["Search by interest"] = "";
+
+// Friend profile.
+es["Message"] = "'Upxare si";
+// es["Poke "] = "";
+es["Suggest friends"] = "Mok eylanit";
+es["Unfriend"] = "Ke 'eylan si";
+es["Report/Block"] = "Kulat/Fpe' neto";
+es["Close friends"] = "Sìltsana eylan";
+es["Acquaintences"] = "Súte";
+es["Show all lists"] = "Wìntxu nìwotx";
+es["How many updates?"] = "Holpxaype lawnatema ayu?";
+es["All updates"] = "Lawnatema fra'u";
+es["Most updates"] = "Lawnatema ayuä txampì";
+es["Only important"] = "Nì'aw letsrantena ayu";
+es["What types of updates?"] = "Pefnel lawnatema ayuä?";
+es["Life events"] = "Tìreyä sìlen";
+es["Status updates"] = "Tìfkeytok alawnatem";
+es["Games"] = "Ayuvan";
+es["Comments and likes"] = "Aysäplltxevi sì sawnunu ayu";
+es["Music and Videos"] = "Pamtseo sì Rusikxa Rel";
+es["Other activities"] = "Lahea sìlen";
+es["Unsubscribe"] = "Ftang nirvong";
+
 
 // Map page
 // es["All"] = "";
