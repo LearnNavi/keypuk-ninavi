@@ -166,6 +166,7 @@ es["Unfollow post"] = "Ftang nirvong kìng";
 es["No new requests"] = "Kea mipa ayätxäle.";
 es["You like this"] = "Fì'u sunu.";
 es["There are no more posts to show."] = "Ke lu ayupxare alahe a tsun tse'a"; 
+es["There are no more posts to show at the moment"] = "Ke lu ayupxare alahe a tsun tse'a set"; 
 es["commented on your"] = "poltxe teri ngeyä";
 es["Hidden Activity..."] = "Wawnana Ayhem";
 es["Follow post"] = "Nong fì'u";
