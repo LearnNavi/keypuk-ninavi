@@ -396,34 +396,34 @@ es["Partner (female)"] = "";
 */
 
 // Section: Event page
-es["Event for"] = "Tìlen fpi";
-es["By "] = "Fa ";
-es["Going"] = "Kerayä";
-es["Maybe"] = "Kxawm";
-es["Invited"] = "Vawnin";
+// es["Event for"] = "Tìlen fpi";
+// es["By "] = "Fa ";
+// es["Going"] = "Kerayä";
+// es["Maybe"] = "Kxawm";
+// es["Invited"] = "Vawnin";
 es["Export"] = "Fpe' käsatseng";
 es["Report"] = "Kulat";
 es["Link"] = "Tsaheylu si";
 es["Video"] = "Rusikxa Rel";
-es["until"] = "vaykrr";
+// es["until"] = "vaykrr";
 es["Events"] = "Sìlen";
-es["Not going"] = "Ke kerayä";
+es["Not Going"] = "Ke kerayä";
 es["Export event"] = "Fpe' käsatseng tìlenit";
 es["Share Event"] = "Käsrin tìlenit";
 es["Invite friends"] = "Vin eylanti";
 es["Invite"] = "Vin";
 es["See more suggestions"] = "Tse'a lahea sìmokti";
 es["Public event"] = "Tìlen apiak frapofpi ";
-es["All"] = "Frapo";
-es["Hosts"] = "Frrfenyu"; // Not sure about this one
+// es["All"] = "Frapo";
+// es["Hosts"] = "Frrfenyu"; // Not sure about this one
 es["Only people who are invited can see and join this event"] = "Nì'aw sute avawnin tsun tsive'a sì 'awstengyem fìtìlenit";
-es["Time"] = "Krr";
-es["When"] = "Pehrr";
-es["Where"] = "Petsenge";
+// es["Time"] = "Krr";
+// es["When"] = "Pehrr";
+// es["Where"] = "Petsenge";
 
 // Section: Events page
-es["You're going."] = "Nga kayä.";
-es["You might go."] = "Nga kxawm kayä.";
+// es["You're going."] = "Nga kayä.";
+// es["You might go."] = "Nga kxawm kayä.";
 es["Later This Week"] = "Fìkintrrmì";
 es["Next week"] = "Kintrrmì ahay";
 es["Upcoming Events"] = "Kusäa Sìlen";
