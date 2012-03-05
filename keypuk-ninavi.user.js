@@ -121,7 +121,7 @@ es["See friendship"] = "Tse'a tì'eylanti";
 // es["Sponsored"] = "Awneyk";
 es["Create an advert"] = "Ngop nusewìt";
 es["Subscriptions"] = "Tsawne'a";
-es["More Recent Activity"] = "Tse'a mipa hemti nì'ul";
+es["More Recent Activity"] = "Mipa hemti nì'ul";
 es["View As..."] = "Tse'a na...";
 es["Add a badge to your site"] = "Sung pätsìt ne ngey 'awm";
 es["Edit"] = "Latem";
@@ -165,13 +165,15 @@ es["Report as spam"] = "Kulat na tìkawng";
 es["Unfollow post"] = "Ftang nirvong kìng";
 es["No new requests"] = "Kea mipa ayätxäle.";
 es["You like this"] = "Fì'u sunu.";
-es["There are no more posts to show."] = "Ke lu ayupxare alahe a tsun tse'a"; 
+es["There are no more posts to show."] = "Ke lu lahea upxare a tsun tsive'a"; 
 es["There are no more posts to show at the moment"] = "Ke lu ayupxare alahe a tsun tse'a set"; 
 es["commented on your"] = "poltxe teri ngeyä";
 es["Hidden Activity..."] = "Wawnana Ayhem";
 es["Follow post"] = "Nong fì'u";
 es["Birthdays"] = "Ayftxozä";
 es["See more"] = "Tse'a nì'ul";
+es["Add friend"] = "Sung 'eylanit";
+es["Close"] = "Tstu si";
 
 /*/ Section: Sidebar
 // es["and"] = "sì";
@@ -184,7 +186,6 @@ es["See more"] = "Tse'a nì'ul";
 // es["Apps"] = "Tìkangkemvi";
 // es["Pages"] = "Ayrìk";
 // es["Groups"] = "Fongu";
-// es["Events"] = "Sìlen";
 // es["Messages"] = "Upxare";
 // es["News Feed"] = "Fmawnä Payfya";
 // es["Favourites"] = "Oeyä sweya ayu";
@@ -280,7 +281,6 @@ es["Other activities"] = "Lahea sìlen";
 es["Unsubscribe"] = "Ftang nirvong";
 
 // Section: Map page
-// es["All"] = "";
 // es["Place Lived"] = "";
 // es["Trips"] = "";
 // es["Life Event"] = "";
@@ -394,6 +394,44 @@ es["Daughter-in-law"] = "";
 es["Partner (male)"] = "";
 es["Partner (female)"] = "";
 */
+
+// Section: Event page
+es["Event for"] = "Tìlen fpi";
+es["By "] = "Fa ";
+es["Going"] = "Kerayä";
+es["Maybe"] = "Kxawm";
+es["Invited"] = "Vawnin";
+es["Export"] = "Fpe' käsatseng";
+es["Report"] = "Kulat";
+es["Link"] = "Tsaheylu si";
+es["Video"] = "Rusikxa Rel";
+es["until"] = "vaykrr";
+es["Events"] = "Sìlen";
+es["Not going"] = "Ke kerayä";
+es["Export event"] = "Fpe' käsatseng tìlenit";
+es["Share Event"] = "Käsrin tìlenit";
+es["Invite friends"] = "Vin eylanti";
+es["Invite"] = "Vin";
+es["See more suggestions"] = "Tse'a lahea sìmokti";
+es["Public event"] = "Tìlen apiak frapofpi ";
+es["All"] = "Frapo";
+es["Hosts"] = "Frrfenyu"; // Not sure about this one
+es["Only people who are invited can see and join this event"] = "Nì'aw sute avawnin tsun tsive'a sì 'awstengyem fìtìlenit";
+es["Time"] = "Krr";
+es["When"] = "Pehrr";
+es["Where"] = "Petsenge";
+
+// Section: Events page
+es["You're going."] = "Nga kayä.";
+es["You might go."] = "Nga kxawm kayä.";
+es["Later This Week"] = "Fìkintrrmì";
+es["Next week"] = "Kintrrmì ahay";
+es["Upcoming Events"] = "Kusäa Sìlen";
+es["Suggested Events"] = "Vawnina Sìlen";
+es["Past events"] = "Sìlen akawnamä";
+es["Declined Events"] = "Sìlen akawnä a nga kivä satne";
+es["Export Events..."] = "Fpe' käsatseng Sìlenit...";
+
 
 // Section: Broken words (These don't work with the script yet.)
 // es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
