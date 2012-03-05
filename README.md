@@ -10,6 +10,7 @@ Requirements
 ------------
 You will need a browser capable of running Greasemonkey Userscripts.
 This includes:
+
 * [Firefox](http://getfirefox.com) ([with an addon](https://addons.mozilla.org/firefox/addon/748))
 * [Google Chrome](http://chrome.google.com)
 * [Internet Explorer](http://www.microsoft.com/windows/internet-explorer/) ([with an addon](http://www.bhelpuri.net/Trixie/))
@@ -30,4 +31,5 @@ This script is a work in progress, and is continually updated. Many words are cu
 Think you can help?
 -------------------
 If you think you can help translate, see the [discussion thread](http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-%28navi-facebook-project%29) on the LearnNavi.org forums or fork this repo, translate some, and send a pull request!
+
 There is also a [to do list](https://github.com/RichardLitt/keypuk-ninavi/blob/master/todo.md) on GitHub.
