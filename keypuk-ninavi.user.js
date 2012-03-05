@@ -420,7 +420,7 @@ es["Partner (female)"] = "";
 // Section: Event page
 // es["Event for"] = "Tìlen fpi";
 // es["By "] = "Fa ";
-// es["Going"] = "Kerayä";
+es["Going"] = "Kerayä";
 // es["Maybe"] = "Kxawm";
 // es["Invited"] = "Vawnin";
 es["Export"] = "Fpe' käsatseng";
