@@ -237,19 +237,18 @@ es["September"] = "Volawvea vospxì";
 es["October"] = "Vomuvea vospxì";
 es["November"] = "Vopeyvea vospxì";
 es["December"] = "Vosìvea vospxì";
-/* es["about an hour ago"] = "";
-es["2 hours ago"] = "";
-es["3 hours ago"] = "";
-es["3 hours ago"] = "";
-es["4 hours ago"] = "";
-es["5 hours ago"] = "";
-es["6 hours ago"] = "";
-es["7 hours ago"] = "";
-es["8 hours ago"] = "";
-es["9 hours ago"] = "";
-es["10 hours ago"] = "";
-es["11 hours ago"] = "";
-es["12 hours ago"] = ""; */
+es["about an hour ago"] = "teri trrtsyìpkam";
+es["2 hours ago"] = "Mune srrtsyìpkam";
+es["3 hours ago"] = "Pxey srrtsyìpkam";
+es["4 hours ago"] = "Tsìng srrtsyìpkam";
+es["5 hours ago"] = "Mrr srrtsyìpkam";
+es["6 hours ago"] = "Pukap srrtsyìpkam";
+es["7 hours ago"] = "Kinä srrtsyìpkam";
+es["8 hours ago"] = "Mevol srrtsyìpkam";
+es["9 hours ago"] = "Mevolaw srrtsyìpkam";
+es["10 hours ago"] = "Mevomum srrtsyìpkam";
+es["11 hours ago"] = "Mevopey srrtsyìpkam";
+es["12 hours ago"] = "Mevosìng srrtsyìpkam";
 
 // Section: Photos
 es["Add a description"] = "Sung tìsla'tsut";
@@ -454,6 +453,9 @@ es["Suggested Events"] = "Vawnina Sìlen";
 es["Past events"] = "Sìlen akawnamä";
 es["Declined Events"] = "Sìlen akawnä a nga kivä satne";
 es["Export Events..."] = "Fpe' käsatseng Sìlenit...";
+es["Attach a file"] = "";
+es["Take a picture or video"] = "";
+es["Quick reply mode: press Enter to send"] = "";
 
 // Section: Message page
 es["Reply"] = "Plltxe nì'eyng";
