@@ -174,6 +174,16 @@ es["Birthdays"] = "Ayftxozä";
 es["See more"] = "Tse'a nì'ul";
 es["Add friend"] = "Sung 'eylanit";
 es["Close"] = "Tstu si";
+// es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
+// es["Go Offline to "] = "Wan ftu "; doesn't work
+// es["Search"] = "Fwew"; 
+// es["shared a"] = "käsrin";
+// es["via"] = "ìlä";
+// es["Lives in"] = "Kelku si mì";
+// es["In a relationship with"] = "Muntxa susi mì";
+// es["mutual friends"] = "tsaheylu tì'eylanä";
+// es["minutes ago"] = "ayswawkam";
+
 
 /*/ Section: Sidebar
 // es["and"] = "sì";
@@ -227,6 +237,19 @@ es["September"] = "Volawvea vospxì";
 es["October"] = "Vomuvea vospxì";
 es["November"] = "Vopeyvea vospxì";
 es["December"] = "Vosìvea vospxì";
+/* es["about an hour ago"] = "";
+es["2 hours ago"] = "";
+es["3 hours ago"] = "";
+es["3 hours ago"] = "";
+es["4 hours ago"] = "";
+es["5 hours ago"] = "";
+es["6 hours ago"] = "";
+es["7 hours ago"] = "";
+es["8 hours ago"] = "";
+es["9 hours ago"] = "";
+es["10 hours ago"] = "";
+es["11 hours ago"] = "";
+es["12 hours ago"] = ""; */
 
 // Section: Photos
 es["Add a description"] = "Sung tìsla'tsut";
@@ -432,17 +455,18 @@ es["Past events"] = "Sìlen akawnamä";
 es["Declined Events"] = "Sìlen akawnä a nga kivä satne";
 es["Export Events..."] = "Fpe' käsatseng Sìlenit...";
 
-
-// Section: Broken words (These don't work with the script yet.)
-// es["What's on your mind?"] = "’ìn ngeyä fyape nìfkrr?"; breaks input
-// es["Go Offline to "] = "Wan ftu "; doesn't work
-// es["Search"] = "Fwew"; 
-// es["shared a"] = "käsrin";
-// es["via"] = "ìlä";
-// es["Lives in"] = "Kelku si mì";
-// es["In a relationship with"] = "Muntxa susi mì";
-// es["mutual friends"] = "tsaheylu tì'eylanä";
-// es["minutes ago"] = "ayswawkam";
+// Section: Message page
+es["Reply"] = "Plltxe nì'eyng";
+es["Actions"] = "Hem";
+es["Mark as unread"] = "Latem fì'ut na kea awninan";
+es["Forward..."] = "Fpe' fì'ut tuteone";
+es["Open in Chat"] = "Piak si Pängkxoyumì";
+es["Archive"] = "Wan";
+es["Delete messages..."] = "Ska'a upxaret";
+es["Report as spam..."] = "Kulat na tìkawng...";
+es["Report conversation..."] = "Kulat tìpängkxot";
+es["Move to other"] = "'ärìp ne lapo";
+es["Sent from Chat"] = "Fpawne' ftu Pängkxoyu";
 
 //Basic Tag altering.
 function translate_tag(tag) {
