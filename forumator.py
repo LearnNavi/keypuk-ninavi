@@ -11,12 +11,13 @@ def convert(output):
         line = line.replace('\n', '')
         if line[:2] == 'es':
             line = line.split('\"')
-            english = '[color=blue]' + line[1] + '[/color]'
+            english = '[color=green]' + line[1]
             navi = line[3] 
             if line[3] == '':
-                english = english.replace('color=blue', 'color=red')
+                english = english.replace('color=green', 'color=red')
+                navi = '[/color]'
             if line[3] != '':
-                navi = '[i][color=green]' + line[3] + '[/color][/i]'
+                navi = '[i]' + line[3] + '[/i][/color]'
             g.write(english + ' = ' + navi + '\n')
         if line[:10] == '// Section':
             line = '[b]' + line[12:] + '[/b]'
@@ -24,12 +25,12 @@ def convert(output):
         if line[:5] == '// es':
             line = line[4:]
             line = line.split('\"')
-            english = '[color=red]' + line[1] + '[/color]'
+            english = '[color=red]' + line[1]
             if line[3] == '':
-                navi = ''
+                navi = '[/color]'
             if line[3] != '':
                 english = english.replace('color=red', 'color=orange')
-                navi = '[i][color=orange]' + line[3] + '[/color][/i]'
+                navi = '[i]' + line[3] + '[/i][/color]'
             g.write(english + ' = ' + navi + '\n')
     g.close()
     print 'Lolatem.'
