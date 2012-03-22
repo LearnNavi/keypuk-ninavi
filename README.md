@@ -1,6 +1,7 @@
 Keypuk NìNa’vi
 ==============
 A Greasemonkey Userscript to alter Facebook to display words in Na'vi.
+(New: And Dothraki! See below.)
 
 There is a [Discussion and community page](http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-%28navi-facebook-project%29) on the LearnNavi.org forums.
 
