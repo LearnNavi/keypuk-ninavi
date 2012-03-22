@@ -33,3 +33,17 @@ Think you can help?
 If you think you can help translate, see the [discussion thread](http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-%28navi-facebook-project%29) on the LearnNavi.org forums or fork this repo, translate some, and send a pull request!
 
 There is also a [to do list](https://github.com/RichardLitt/keypuk-ninavi/blob/master/todo.md) on GitHub.
+
+But... I speak Dothraki!
+------------------------
+
+We're just starting with that, too! Great, glad you made it here.
+
+Here is the [discussion thread](http://forum.dothraki.org/general-discussion/dothraki-facebook/).
+The code is the same, just in a different file with Dothraki
+translations.
+
+Click [here](https://github.com/RichardLitt/keypuk-ninavi/raw/master/dothraki.user.js) to install.
+
+More on Dothraki can be found on
+[Dothraki.org](http://www.dothraki.org).
