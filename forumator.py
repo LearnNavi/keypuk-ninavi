@@ -1,10 +1,11 @@
 import sys
 
-file = 'keypuk-ninavi.user.js'
-output = 'colored'
+navi = 'keypuk-ninavi.user.js'
+dothraki = 'dothraki.user.js'
+output = 'forumd'
 
-def convert(output):
-    f = open(file, 'r+')
+def convert(output, language):
+    f = open(language, 'r+')
     g = open(output, 'w')
     lineList = f.readlines()
     for line in lineList:
@@ -37,4 +38,5 @@ def convert(output):
 
 
 if __name__ == "__main__":
-    if (sys.argv[1] == 'latem'): convert(output)
+    if (sys.argv[1] == 'navi'): convert(output, navi)
+    if (sys.argv[1] == 'dothraki'): convert(output, dothraki)
