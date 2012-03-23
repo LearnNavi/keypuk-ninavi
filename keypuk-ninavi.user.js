@@ -1,4 +1,4 @@
-// Keypuk nìNa'vi! v .1
+repo// Keypuk nìNa'vi! v .1
 // Translated and edited by Richard Littauer
 // No (c) on the translations, whatsoever.
 // https://github.com/RichardLitt/keypuk-ninavi
@@ -268,9 +268,9 @@ es["Press Esc to close"] = "Ftxey esc fte tstu si";
 es["Remove tag"] = "'Aku tstxot";
 es["Choose from photos..."] = "Ftxey ayrelkip";
 es["Upload photo..."] = "Tìng relit";
-// es["Reposition..."] = "";
-// es["Remove..."] = "";
-// es["Cover photos"] = "";
+es["Reposition..."] = "Rikx";
+es["Remove..."] = "'Aku";
+es["Cover photos"] = "Rel mì fäpa";
 
 // Section: Friend page.
 es["Search by name"] = "Fwew fa tstxo";
@@ -278,7 +278,7 @@ es["Search by friends of"] = "Fwew fa eylan";
 // es["Search by current city"] = "";
 es["Search by school"] = "Fwew fa numtseng";
 es["Search by workplace"] = "Fwew fa tìkangkemtseng";
-// es["Search by home town"] = "";
+es["Search by home town"] = "Fwew fa Kelutral";
 // es["Search by interest"] = "";
 
 // Section: Friend profile.
@@ -376,7 +376,7 @@ es["Only me"] = "Nì'aw oe";
 // es["Add a class"] = "";
 // es["Where did you go to secondary school?"] = "";
 es["Save"] = "Zong";
-// es["Finished editing"] = "";
+es["Finished editing"] = "Lu hasey";
 
 // Section: Family
 es["Add another family member"] = "Sung lahea túte soaiä";
