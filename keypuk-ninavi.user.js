@@ -1,4 +1,4 @@
-repo// Keypuk nìNa'vi! v .1
+// Keypuk nìNa'vi! v .1
 // Translated and edited by Richard Littauer
 // No (c) on the translations, whatsoever.
 // https://github.com/RichardLitt/keypuk-ninavi
