@@ -153,7 +153,7 @@ es["Subscribed"] = "Tsere'a";
 es["More stories"] = "Nì'ul ayvul";
 es["Edit options"] = "Leykatem sìftxeyt";
 es["Find friends"] = "Fwew eylanit";
-es["Basic Information"] = "Ftuea säomum";
+// es["Basic Information"] = "Ftuea säomum";
 es["Website"] = "Kelutral";
 es["Founded"] = "Sngä'ikrr";
 es["Mission"] = "Tìkan";
@@ -173,6 +173,7 @@ es["Follow post"] = "Nong fì'u";
 es["Birthdays"] = "Ayftxozä";
 es["See more"] = "Tse'a nì'ul";
 es["Add friend"] = "Sung 'eylanit";
+es["Add Friend"] = "Sung 'eylanit";
 es["Close"] = "Tstu si";
 // es["What's on your mind?"] = "Teri pey fperìl ngal?"; breaks input
 // es["Go Offline to "] = "Wan ftu "; doesn't work
@@ -183,13 +184,19 @@ es["Close"] = "Tstu si";
 // es["In a relationship with"] = "Muntxa si hi";
 // es["mutual friends"] = "Eylan ateng";
 // es["minutes ago"] = "ayswawkam";
+es["Videos"] = "Rusikxa ayrel";
+// es["Add to Interest lists..."] = "";
+// es["View full note"] = "";
+// es["Notes help"] = "";
+// es["Notes about"] = "";
+// es["No one has written any notes."] = "";
+// es["Subscribe"] = "";
 
 
 /*/ Section: Sidebar
 // es["and"] = "sì";
 // es["and"] = "ulte"; Can't be both.
 // es["Photos"] = "Ayrel";
-// es["Music"] = "Pamtseo";
 // es["Notes"] = "Famreltsyìp";
 // es["Questions"] = "Sìpawm";
 // es["Links"] = "Ayfya'o";
@@ -318,7 +325,6 @@ es["Show comments"] = "Wìntxu aysäplltxevit";
 // es["Get Directions"] = "";
 
 
-
 // Section: About page
 // es["Basic info"] = "";
 es["Men"] = "Sutan";
@@ -377,6 +383,14 @@ es["Only me"] = "Nì'aw oe";
 // es["Where did you go to secondary school?"] = "";
 es["Save"] = "Zong";
 es["Finished editing"] = "Lu hasey";
+es["Music"] = "Pamtseo";
+es["Movies"] = "Rusikxa ayrel";
+// es["Television"] = "";
+es["Activities"] = "";
+es["Interests"] = "";
+es["Gender"] = "";
+es["Show other Pages"] = "";
+es["No Pages to show."] = "";
 
 // Section: Family
 es["Add another family member"] = "Sung lahea túte soaiä";
@@ -470,6 +484,7 @@ es["Report as spam..."] = "Kulat na tìkawng...";
 es["Report conversation..."] = "Kulat tìpängkxot";
 es["Move to other"] = "'ärìp ne lapo";
 es["Sent from Chat"] = "Fpawne' ftu Pängkxoyu";
+
 
 //Basic Tag altering.
 function translate_tag(tag) {
