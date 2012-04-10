@@ -43,6 +43,7 @@ es["English (US)"] = "Valyrian";
 es["English (UK)"] = "Valyrian";
 es["Like"] = "Valar morghulis";
 es["Comment"] = "Valar dohaeris";
+es["Unlike"] = "Valar dohaeris";
 es["dragonfire"] = "dracarys";
 es["Brother"] = "Valonqar";
 es["wise"] = "maegi";
