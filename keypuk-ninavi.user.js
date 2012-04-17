@@ -489,6 +489,7 @@ es["Sent from Chat"] = "Fpawne' ftu Pängkxoyu";
 // First %a is a name, second %a is a name or else something like "6 others"
 // fuzzy
 es["%a and %a like this."] = "%a sì %a sunu si fì'uri.";
+es["%a likes this."] = "%a sunu si fì'uri.";
 
 
 //Basic Tag altering.
