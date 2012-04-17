@@ -485,6 +485,12 @@ es["Move to other"] = "'ärìp ne lapo";
 es["Sent from Chat"] = "Fpawne' ftu Pängkxoyu";
 
 
+// Section: Test
+// First %a is a name, second %a is a name or else something like "6 others"
+// fuzzy
+es["%a and %a like this."] = "%a sì %a sunu si fì'uri.";
+
+
 //Basic Tag altering.
 function translate_tag(tag) {
 	var fbelem = document.getElementsByTagName(tag);
