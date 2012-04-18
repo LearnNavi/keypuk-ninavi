@@ -2,6 +2,7 @@ import sys
 
 navi = 'keypuk-ninavi.user.js'
 dothraki = 'dothraki.user.js'
+valyrian='valyrian.user.js'
 output = 'forumd'
 
 def convert(output, language):
@@ -40,3 +41,4 @@ def convert(output, language):
 if __name__ == "__main__":
     if (sys.argv[1] == 'navi'): convert(output, navi)
     if (sys.argv[1] == 'dothraki'): convert(output, dothraki)
+    if (sys.argv[1] == 'valyrian'): convert(output, valyrian)
