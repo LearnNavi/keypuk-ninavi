@@ -5,7 +5,7 @@ A Greasemonkey Userscript to alter Facebook to display words in Na'vi.
 
 There is a [Discussion and community page](http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-%28navi-facebook-project%29) on the LearnNavi.org forums.
 
-The code is from [Secwepemc Facebook](https://github.com/neskie/secwepemc-facebook) written by Manuel Neski, and the Na'vi translations are our own. Secwepemc Facebook is no longer updated, as sadly Manuel has passed away. We are extremely grateful for his work.
+The code is from [Secwepemc Facebook](https://github.com/neskie/secwepemc-facebook) written by Neskie Manuel, and the Na'vi translations are our own. Secwepemc Facebook is no longer updated, as sadly Manuel has passed away. We are extremely grateful for his work.
 
 Requirements
 ------------
