@@ -37,7 +37,6 @@ There is also a [to do list](https://github.com/RichardLitt/keypuk-ninavi/blob/m
 
 But... I speak Dothraki!
 ------------------------
-
 We're just starting with that, too! Great, glad you made it here.
 
 Here is the [discussion thread](http://forum.dothraki.org/general-discussion/dothraki-facebook/).
@@ -48,3 +47,11 @@ Click [here](https://github.com/RichardLitt/keypuk-ninavi/raw/master/dothraki.us
 
 More on Dothraki can be found on
 [Dothraki.org](http://www.dothraki.org).
+
+What about Valyrian?
+--------------------
+We're working on that too.
+
+Click [here](https://github.com/RichardLitt/keypuk-ninavi/raw/master/valyrian.user.js) to install.
+
+Want to know more about Valyrian? Follow [@LearnValyrian](https://twitter.com/#!/LearnValyrian) on Twitter.
