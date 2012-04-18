@@ -2,7 +2,7 @@ import sys
 
 navi = 'keypuk-ninavi.user.js'
 dothraki = 'dothraki.user.js'
-valyrian='valyrian.user.js'
+valyrian = 'valyrian.user.js'
 output = 'forumd'
 
 def convert(output, language):
