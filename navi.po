@@ -20,112 +20,110 @@
 #. These need to be adapted into Na'vi still
 #. Lines like this one beginning with "#." are comments; no need to translate!
 
-## msgid "1 mutual friend"
-## msgstr "1 eylan ateng"
+msgid "1 mutual friend"
+msgstr "1 eylan ateng"
 
-# ----- Gotten this far. -R
-
-## msgid "1 NEW STORY"
-## msgstr "1 HISTORIA NUEVA"
+msgid "1 NEW STORY"
+msgstr "1 VUR AMIP"
 
 #. Appears next to a post; means the post has been shared one time
-## msgid "1 share"
-## msgstr "Compartiu 1 vegada"
+msgid "1 share"
+msgstr "1 kusäsrin"
 
 #. First two %a's are names, third is something like "5 others"
-## msgid "%a, %a and %a like this."
-## msgstr "A %a, %a y %a les ha feito goyo isto."
+msgid "%a, %a and %a like this."
+msgstr "%a, %a sì %a fì'uri sunu."
 
 #. %a is someone's name
-## msgid "%a added a new photo."
-## msgstr "%a i ha adhibiu una foto."
+msgid "%a added a new photo."
+msgstr "%a mipa relit solung."
 
 #. First %a is a name, second %a is a name or else something like "6 others"
-## msgid "%a and %a like this."
-## msgstr "A %a y %a les ha feito goyo isto."
+msgid "%a and %a like this."
+msgstr "%a sì %a fì'uri sunu."
 
 #. First two as above, and final %a is something like "a link"
-## msgid "%a and %a shared %a."
-## msgstr "%a y %a han compartiu %a."
+msgid "%a and %a shared %a."
+msgstr "%al sì %al käsrin %ati."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
 msgstr "Teri"
 
-## msgid "about an hour ago"
-## msgstr "en fa una hora"
+msgid "about an hour ago"
+msgstr "teri trrtsyìpkam"
 
-## msgid "about a minute ago"
-## msgstr "en fa un minuto"
+msgid "about a minute ago"
+msgstr "teri swawkam"
 
-## msgid "Account Settings"
-## msgstr "Achustes de cuenta"
+msgid "Account Settings"
+msgstr "Fìpoä Sìfkeytok"
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
 ## msgid "%a commented on a %a."
 ## msgstr "%a ha comentau una %a."
 
-## msgid "Activity Log"
-## msgstr "Rechistro d'actividatz"
+msgid "Activity Log"
+msgstr "Sìnä 'ok"
 
-## msgid "Add Friend"
-## msgstr "Adhibir como amigo"
+msgid "Add Friend"
+msgstr "Sung 'eylanit"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-## msgid "Add Photo / Video"
-## msgstr "Adhibe una foto u video"
+msgid "Add Photo / Video"
+msgstr "Sung (rusikxa) relit"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
-## msgid "Advertising"
-## msgstr "Publicidat"
+msgid "Advertising"
+msgstr "Tìlusawk"
 
 #. Time stamp on a post. You might also translate as "Just now"
 ## msgid "a few seconds ago"
 ## msgstr "en fa qualques segundos"
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
-## msgid "%a likes %a."
-## msgstr "A %a le ha feito goyo %a."
+msgid "%a likes %a."
+msgstr "%al %ari sunu si."
 
 #. First %a is a person's name, second one is "post", "status", "photo", ...
-## msgid "%a likes a %a."
-## msgstr "A %a le ha feito goyo una %a."
+msgid "%a likes a %a."
+msgstr "%aru %a sunu."
 
 #. %a stands for a person's name
-## msgid "%a likes this."
-## msgstr "A %a le ha feito goyo isto."
+msgid "%a likes this."
+msgstr "Fì'uri %a sunu si."
 
 #. %a stands for something like "3 people"
-## msgid "%a like this."
-## msgstr "A %a les ha feito goyo isto."
+msgid "%a like this."
+msgstr "Fì'uri %a sunu si."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
-## msgid "a link"
-## msgstr "un vinclo"
+msgid "a link"
+msgstr "fya'o"
 
 #. Heading above the apps you use, in left-hand navigation on home page
-## msgid "APPS"
-## msgstr "APLICACIONS"
+msgid "APPS"
+msgstr "Tìkangkemvi"
 
 #. One of the entries in the APPS list for some users
-## msgid "Apps and Games"
-## msgstr "Aplicacions y chuegos"
+msgid "Apps and Games"
+msgstr "Sìkangkemvi sì Ayuvan"
 
 #. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
 ## msgid "%A at %s"
 ## msgstr "Lo %A a las %s"
 
 #. First %a is a person, second one is something like "a link"
-## msgid "%a shared %a."
-## msgstr "%a ha compartiu %a."
+msgid "%a shared %a."
+msgstr "%al käsrin %ati."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
-## msgid "Ask Question"
-## msgstr "Fe una pregunta"
+msgid "Ask Question"
+msgstr "Pawm tìpawmit"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
-## msgid "%B %d"
-## msgstr "%d de %B"
+msgid "%B %d"
+msgstr "%B %d"
 
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
 ## msgid "%B %d at %s"
@@ -139,36 +137,36 @@ msgstr "Teri"
 ## msgid "%B %d, %Y at %s"
 ## msgstr "%d de %B de %Y, a la(s) %s"
 
-## msgid "Born"
-## msgstr "Naixencia"
+msgid "Born"
+msgstr "'Amongokx"
 
 #. Appears below shared items, indicating the original author/creator
-## msgid "By:"
-## msgstr "De:"
+msgid "By:"
+msgstr "Fa:"
 
 #. Button label
 msgid "Cancel"
 msgstr "Ftang"
 
 #. Link at bottom of home page (under "More") to info about jobs at Facebook
-## msgid "Careers"
-## msgstr "Treballar-ie"
+msgid "Careers"
+msgstr "Tintìn"
 
 #. Link that allows you to change the big photo at the top of your timeline
-## msgid "Change Cover"
-## msgstr "Cambiar a portalada"
+msgid "Change Cover"
+msgstr "Leykatem Keyit"
 
 #. Label on tab for chatting with friends
 #. "Offline" means you're not currently logged into the chat system
-## msgid "Chat (Offline)"
-## msgstr "Chat (desconnectau)"
+msgid "Chat (Offline)"
+msgstr "Plltxe (Kämakto)"
 
 msgid "Close"
 msgstr "Tstu si"
 
 #. A link that takes you to a list of your closest friends on Facebook
-## msgid "Close Friends"
-## msgstr "Los mas amigos"
+msgid "Close Friends"
+msgstr "Sìltsana eylan"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
@@ -178,35 +176,35 @@ msgstr "Plltxe"
 ## msgid "Confirm"
 ## msgstr "Confirmar"
 
-## msgid "Create an Ad"
-## msgstr "Creyar un anuncio"
+msgid "Create an Ad"
+msgstr "Ngop nusewìt"
 
 #. Link at bottom of home page (under "More")
-## msgid "Create a Page"
-## msgstr "Creyar una pachina"
+msgid "Create a Page"
+msgstr "Ngop rìkti"
 
-## msgid "Create Group..."
-## msgstr "Creyar una colla..."
+msgid "Create Group..."
+msgstr "Ngop pongut..."
 
 #. Link at bottom of home page (under "More") to info for software developers
-## msgid "Developers"
-## msgstr "Desembolicadors"
+msgid "Developers"
+msgstr "Ayngopyu"
 
 #. %d stands for a number, no need to translate it
-## msgid "%d hours ago"
-## msgstr "en fa %d horas"
+msgid "%d hours ago"
+msgstr "%d srrtsyìpkam"
 
 #. %d stands for a number, no need to translate it
-## msgid "%d minutes ago"
-## msgstr "en fa %d minutos"
+msgid "%d minutes ago"
+msgstr "%d swawkam"
 
 #. %d stands for a number, no need to translate it
-## msgid "%d mutual friends"
-## msgstr "%d amigos comuns"
+msgid "%d mutual friends"
+msgstr "%d eylan ateng"
 
 #. %d stands for a number, no need to translate it
-## msgid "%d NEW STORIES"
-## msgstr "%d HISTORIAS NUEVAS"
+msgid "%d NEW STORIES"
+msgstr "%d VUR AMIP"
 
 #. %d stands for a number, no need to translate it; "%d other people"
 #. Always a link. Used in sentences like "John Doe and 7 others like this."
@@ -214,8 +212,8 @@ msgstr "Plltxe"
 ## msgstr "atros %d mas"
 
 #. %d stands for a number; used in sentences like "%d people like this."
-## msgid "%d people"
-## msgstr "%d personas"
+msgid "%d people"
+msgstr "%d sute"
 
 #. %d stands for a number, no need to translate it
 ## msgid "%d seconds ago"
@@ -223,13 +221,13 @@ msgstr "Plltxe"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
-## msgid "%d shares"
-## msgstr "Compartiu %d vegadas"
+msgid "%d shares"
+msgstr "%d sawnäsrin"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
-## msgid "Edit Options"
-## msgstr "Editar Opcions"
+msgid "Edit Options"
+msgstr "Leykatem sìftxeyt"
 
 #. Attached to each post on your personal timeline
 ## msgid "Edit or Remove"
@@ -237,29 +235,29 @@ msgstr "Plltxe"
 
 #. Link that lets you change your language settings
 #. Please translate to the name of your language, written in the language itself
-## msgid "English (US)"
-## msgstr "Aragonés"
+msgid "English (US)"
+msgstr "Na'vi"
 
 #. In the "New Message" dialog
 ## msgid "Enter a friend's name or email address"
 ## msgstr "Escribe o nombre d'un amigo u a suya adreza de correu"
 
 #. A link to a list of events that you've been invited to
-## msgid "Events"
-## msgstr "Eventos"
+msgid "Events"
+msgstr "Sìlen"
 
 #. A link that shows you a list of your relatives on Facebook
-## msgid "Family"
-## msgstr "Familia"
+msgid "Family"
+msgstr "Soaia"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
-## msgid "FAVORITES"
-## msgstr "FAVORITOS"
+msgid "FAVORITES"
+msgstr "Ayu a sunu oeru frato"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
-## msgid "Find Friends"
-## msgstr "Trobar amigos míos"
+msgid "Find Friends"
+msgstr "Run eylanit"
 
 ## msgid "Find More Pages"
 ## msgstr "Trobar mas pachinas"
@@ -269,88 +267,91 @@ msgstr "Plltxe"
 ## msgstr "Amigos connectaus"
 
 #. People who have asked to be your friend on Facebook; top left of screen
-## msgid "Friend Requests"
-## msgstr "Demandas d'amistanza"
+msgid "Friend Requests"
+msgstr "Ätxäle sì'eylanä"
 
 #. A link that takes you to a list of all your Facebook friends
-## msgid "Friends"
-## msgstr "Amigos"
+msgid "Friends"
+msgstr "Eylan"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
-## msgid "FRIENDS"
-## msgstr "AMIGOS"
+msgid "FRIENDS"
+msgstr "EYLAN"
 
 #. Heading above the groups you're in, left-hand navigation on home page
-## msgid "GROUPS"
-## msgstr "COLLAS"
+msgid "GROUPS"
+msgstr "FONGU"
+
+msgid "Groups"
+msgstr "Fongu"
 
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
-## msgid "Help"
-## msgstr "Aduya"
+msgid "Help"
+msgstr "Srung"
 
 #. Link that takes you to your home timeline; always visible at top-right
-## msgid "Home"
-## msgstr "Inicio"
+msgid "Home"
+msgstr "Kelutral"
 
-## msgid "Life Event"
-## msgstr "Episodios importants"
+msgid "Life Event"
+msgstr "Tìlen tìreyä"
 
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
-## msgid "Like"
-## msgstr "Me fa goyo"
+msgid "Like"
+msgstr "Sunu"
 
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 ## msgid "Likes"
 ## msgstr "Me fa goyo"
 
-## msgid "Like This Page"
-## msgstr "Me fa goyo ista pachina"
+msgid "Like This Page"
+msgstr "Fìrìk sunu"
 
 #. Always a link. Used in longer sentences, like "%a commented on a link."
-## msgid "link"
-## msgstr "vinclo"
+msgid "link"
+msgstr "fya'o"
 
-## msgid "Links"
-## msgstr "vinclos"
+msgid "Links"
+msgstr "Ayfya'o"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 ## msgid "LISTS"
 ## msgstr "LISTAS"
 
-## msgid "Log Out"
-## msgstr "Salir"
+msgid "Log Out"
+msgstr "Hum"
 
 #. Link to a map of the places someone has been
-## msgid "Map"
-## msgstr "Mapa"
+msgid "Map"
+msgstr "Atxkxerel"
 
 #. In the "New Message" dialog
-## msgid "Message:"
-## msgstr "Mensache:"
+msgid "Message:"
+msgstr "'Upxare:"
 
-## msgid "Messages"
-## msgstr "Mensaches"
+msgid "Messages"
+msgstr "Upxare"
 
 #. Photographs uploaded from someone's mobile device
 ## msgid "Mobile Uploads"
 ## msgstr "Puyadas dende o mobil"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
-## msgid "More"
-## msgstr "Mas"
+msgid "More"
+msgstr "Nì'ul"
 
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
-## msgid "MORE"
-## msgstr "MAS"
+msgid "MORE"
+msgstr "NÌ'UL"
 
 #. Appears at the bottom of your home time line; click to load more posts
-## msgid "More Stories"
-## msgstr "Mas historias"
+msgid "More Stories"
+msgstr "Nì'ul ayvul"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-## msgid "Most Recent"
-## msgstr "Mas recients"
+msgid "Most Recent"
+msgstr "Vur asok frato"
 
 #. Appears in left-hand navigation for some users
 msgid "Music"
@@ -364,26 +365,26 @@ msgstr "Pamtseo"
 ## msgstr "Nuevo mensache"
 
 #. Appears in left-hand navigation of home page
-## msgid "News Feed"
-## msgstr "Nueva canal (feed)"
+msgid "News Feed"
+msgstr "Fmawnä Payfya"
 
-## msgid "Notes"
-## msgstr "Notas"
+msgid "Notes"
+msgstr "Famreltsyìp"
 
-## msgid "Notifications"
-## msgstr "Notificacions"
+msgid "Notifications"
+msgstr "Fmawn"
 
 #. Button label; postpone confirmation of a friend request
-## msgid "Not Now"
-## msgstr "No pas agora"
+msgid "Not Now"
+msgstr "Ke set"
 
 #. A link that takes you to the latest posts on your timeline
-## msgid "Now"
-## msgstr "Agora"
+msgid "Now"
+msgstr "Set"
 
 #. Heading above the list of your FB pages; left-hand navigation on home page
-## msgid "PAGES"
-## msgstr "PACHINAS"
+msgid "PAGES"
+msgstr "Ayrìk"
 
 ## msgid "People who like this"
 ## msgstr "Chent que le ha feito goyo isto"
@@ -392,56 +393,56 @@ msgstr "Pamtseo"
 ## msgstr "Chent que talment conoixes"
 
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
-## msgid "Photo"
-## msgstr "Adhibe una foto"
+msgid "Photo"
+msgstr "Rel"
 
 #. Always a link. Used in longer sentences, like "%a commented on a photo."
-## msgid "photo"
-## msgstr "foto"
+msgid "photo"
+msgstr "rel"
 
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
-## msgid "Photos"
-## msgstr "Fotos"
+msgid "Photos"
+msgstr "Ayrel"
 
 #. Link that allows you to "check in" somewhere
 #. Appears on profile above "What's on your mind?", after "Status" and "Photo"
-## msgid "Place"
-## msgstr "Puesto"
+msgid "Place"
+msgstr "Tsenge"
 
 #. Appears, e.g., on your Timeline, showing places you visited during the year
-## msgid "Places"
-## msgstr "Puestos"
+msgid "Places"
+msgstr "Senge"
 
 #. Appears in left-hand navigation for some users, under "APPS"
-## msgid "Pokes"
-## msgstr "Trucos"
+msgid "Pokes"
+msgstr "Awnampi"
 
 #. Always a link. Used in longer sentences, like "%a commented on a post."
-## msgid "post"
-## msgstr "dentrada"
+msgid "post"
+msgstr "yem"
 
 #. Link at the bottom of home page to Facebook's privacy policy
-## msgid "Privacy"
-## msgstr "Privacidat"
+msgid "Privacy"
+msgstr "Kxukea Säomum"
 
-## msgid "Privacy Settings"
-## msgstr "Achustes de privacidat"
+msgid "Privacy Settings"
+msgstr "Le'aw 'awpoä Sìfkeytok"
 
 #. Appears when you mouse over your name in the top navigation
 ## msgid "Profile"
 ## msgstr "Perfil"
 
 #. Appears under APPS for some users in left-hand navigation
-## msgid "Questions"
-## msgstr "Preguntas"
+msgid "Questions"
+msgstr "Sìpawm"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
-## msgid "Recent Activity"
-## msgstr "Actividat recient"
+msgid "Recent Activity"
+msgstr "Hemti nì'ul"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
-## msgid "Recommended Pages"
-## msgstr "Pachinas recomendadas"
+msgid "Recommended Pages"
+msgstr "Mawnawka ayrìk"
 
 #. When you share a link in a comment, use this to remove the preview image
 ## msgid "Remove Preview"
@@ -452,31 +453,31 @@ msgstr "Pamtseo"
 ## msgstr "Cambiar a mida"
 
 #. Text that appears in the search box at the top of the page
-## msgid "Search"
-## msgstr "Mirar-lo"
+msgid "Search"
+msgstr "Fwew"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
-## msgid "See All"
-## msgstr "Veyer-las todas"
+msgid "See All"
+msgstr "Tse'a Nìwotx"
 
 #. In the drop-down menu with recent Friend Requests
-## msgid "See All Friend Requests"
-## msgstr "Veyer todas as demandas d'amistanza"
+msgid "See All Friend Requests"
+msgstr "Tse'a fraätxäleti"
 
-## msgid "See All Messages"
-## msgstr "Veyer totz os mensaches"
+msgid "See All Messages"
+msgstr "Tse'a fra'upxaret"
 
-## msgid "See All Notifications"
-## msgstr "Veyer todas as notificaciones"
+msgid "See All Notifications"
+msgstr "Tse'a fmawnit nìwotx"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-## msgid "See Friendship"
-## msgstr "Veyer os vinclos d'amistanza"
+msgid "See Friendship"
+msgstr "Tse'a tì'eylanti"
 
 #. See more of a post that was truncated because it was very long
-## msgid "See More"
-## msgstr "Veyer-ne mas"
+msgid "See More"
+msgstr "Tse'a nì'ul"
 
 #. Link that appears under a post in another language; click it to translate
 ## msgid "See Translation"
@@ -487,40 +488,40 @@ msgstr "Pamtseo"
 ## msgstr "Ninviar"
 
 #. Link that opens the "New Message" dialog
-## msgid "Send a New Message"
-## msgstr "Ninviar un nuevo mensache"
+msgid "Send a New Message"
+msgstr "Fpe' mipa 'upxareti"
 
 #. Verb. A link that allows you to share (usually someone else's)  post with your friends
-## msgid "Share"
-## msgstr "Compartir"
+msgid "Share"
+msgstr "Käsrin fì'ut"
 
 #. A link that allows your to sort posts by "most recent" or "top stories"
-## msgid "SORT"
-## msgstr "ORDENAR"
+msgid "SORT"
+msgstr "WÌNTXU"
 
 #. Appears above paid advertisements
-## msgid "Sponsored"
-## msgstr "Publicidat"
+msgid "Sponsored"
+msgstr "Awneyk"
 
 #. Always a link. Used in longer sentences, like "%a commented on a status."
-## msgid "status"
-## msgstr "estau"
+msgid "status"
+msgstr "tìfkeytok"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
-## msgid "Status"
-## msgstr "Estau"
+msgid "Status"
+msgstr "Tìfkeytok"
 
 #. Top of profile, after Friends, Photos, Map, ...
-## msgid "Subscriptions"
-## msgstr "Condutas"
+msgid "Subscriptions"
+msgstr "Tsawne'a"
 
 ## msgid "Tag Friends"
 ## msgstr "Etiquetar a os amigos"
 
 #. Link at the bottom of home page to Facebook's "Terms of Service"
-## msgid "Terms"
-## msgstr "Condicions"
+msgid "Terms"
+msgstr "Lawa Aylì'u"
 
 #. Real time news feed in the right-hand column
 #. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
@@ -540,28 +541,29 @@ msgstr "KrrPayfya"
 ## msgstr "Ta:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-## msgid "Top Stories"
-## msgstr "Mas importants"
+msgid "Top Stories"
+msgstr "Txina ayvur"
 
 #. Verb. See "Like"
 msgid "Unlike"
 msgstr "Ke sunu"
 
 #. Label on a button that allows you to edit your personal information
-## msgid "Update Info"
-## msgstr "Esviellar a información"
+msgid "Update Info"
+msgstr "Leykatem säomumit"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
-## msgid "Update Status"
-## msgstr "Esviella lo estau"
+msgid "Update Status"
+msgstr "Leykatem tìfkeytokit"
 
-## msgid "Use Facebook as:"
-## msgstr "Fer servir Facebook como:"
+msgid "Use Facebook as:"
+msgstr "Sar Keypukit na:"
 
 #. %d stands for a number, no need to translate it
-## msgid "View all %d comments"
-## msgstr "Veyer totz os %d comentarios"
+# Not sure about this one above.
+msgid "View all %d comments"
+msgstr "Tse'a %d frasäplltxe"
 
 ## msgid "Wall Photos"
 ## msgstr "Fotos de paret"
@@ -571,110 +573,107 @@ msgstr "Ke sunu"
 ## msgstr "Bienveniu"
 
 #. Main prompt when you enter in a new status update
-## msgid "What's on your mind?"
-## msgstr "En qué yes pensando?"
+msgid "What's on your mind?"
+msgstr "Teri pey fperìl ngal?"
 
 #. Prompt when you comment on a post
 ## msgid "Write a comment..."
 ## msgstr "Fer un comentario..."
 
 #. Appears next to a post or comment as a timestamp
-## msgid "Yesterday"
-## msgstr "Ahiere"
+msgid "Yesterday"
+msgstr "Trram"
 
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 ## msgid "Yesterday at %s"
 ## msgstr "Ahiere a la(s) %s"
 
 #. %a stands for something like "4 others"
-## msgid "You and %a like this."
-## msgstr "A tu y a %a tos fa goyo isto."
+msgid "You and %a like this."
+msgstr "Ngaru tu %aru fì'u sunu."
 
-## msgid "You like this."
-## msgstr "Te fa goyo isto."
-
-#. Month Name
-## msgid "January"
-## msgstr "chinero"
+msgid "You like this."
+msgstr "Nga fì'u sunu si."
 
 #. Month Name
-## msgid "February"
-## msgstr "febrero"
+msgid "January"
+msgstr "'Awvea vospxì"
 
 #. Month Name
-## msgid "March"
-## msgstr "marzo"
+msgid "February"
+msgstr "Muvea vospxì"
 
 #. Month Name
-## msgid "April"
-## msgstr "abril"
+msgid "March"
+msgstr "Pxeyvea vospxì"
 
 #. Month Name
-## msgid "May"
-## msgstr "mayo"
+msgid "April"
+msgstr "Tsìvea vospxì"
 
 #. Month Name
-## msgid "June"
-## msgstr "chunio"
+msgid "May"
+msgstr "Mrrvea vospxì"
 
 #. Month Name
-## msgid "July"
-## msgstr "chulio"
+msgid "June"
+msgstr "Puvea vospxì"
 
 #. Month Name
-## msgid "August"
-## msgstr "agosto"
+msgid "July"
+msgstr "Kivea vospxì"
 
 #. Month Name
-## msgid "September"
-## msgstr "setiembre"
+msgid "August"
+msgstr "Volvea vospxì"
 
 #. Month Name
-## msgid "October"
-## msgstr "octubre"
+msgid "September"
+msgstr "Volawvea vospxì"
 
 #. Month Name
-## msgid "November"
-## msgstr "noviembre"
+msgid "October"
+msgstr "Vomuvea vospxì"
 
 #. Month Name
-## msgid "December"
-## msgstr "aviento"
+msgid "November"
+msgstr "Vopeyvea vospxì"
+
+#. Month Name
+msgid "December"
+msgstr "Vosìvea vospxì"
 
 #. Day of the Week
-## msgid "Monday"
-## msgstr "luns"
+msgid "Monday"
+msgstr "Trrmuve"
 
 #. Day of the Week
-## msgid "Tuesday"
-## msgstr "martz"
+msgid "Tuesday"
+msgstr "Trrpxeyve"
 
 #. Day of the Week
-## msgid "Wednesday"
-## msgstr "mierques"
+msgid "Wednesday"
+msgstr "Trrtsìve"
 
 #. Day of the Week
-## msgid "Thursday"
-## msgstr "chueus"
+msgid "Thursday"
+msgstr "Trrmrrve"
 
 #. Day of the Week
-## msgid "Friday"
-## msgstr "viernes"
+msgid "Friday"
+msgstr "Trrpuve"
 
 #. Day of the Week
-## msgid "Saturday"
-## msgstr "sabado"
+msgid "Saturday"
+msgstr "Trrkive"
 
 #. Day of the Week
-## msgid "Sunday"
-## msgstr "domingo"
+msgid "Sunday"
+msgstr "Trr'awve"
 
 
 #. End of old file, beginning of other translated words
 #. Na'vi already done below. -R
-
-msgid "Home"
-msgstr "Kelutral"
 
 msgid "No"
 msgstr "Kehe"
@@ -687,9 +686,6 @@ msgstr "Kxawm"
 
 msgid "Friends"
 msgstr "Eylan"
-
-msgid "Like"
-msgstr "Sunu"
 
 msgid "Books"
 msgstr "Fuk"
@@ -718,8 +714,6 @@ msgstr "Trray"
 msgid "Today"
 msgstr "Fìtrr"
 
-msgid "Yesterday"
-msgstr "Trram"
 
 msgid "What are you planning?"
 msgstr "Pehemit ngal herawl?"
@@ -739,17 +733,11 @@ msgstr "Eveng:"
 msgid "Birthday:"
 msgstr "Ftxozä:"
 
-msgid "See All"
-msgstr "Tse'a Nìwotx"
-
 msgid "Who's invited?"
 msgstr "Pesu ziva'u?"
 
 msgid "This Month"
 msgstr "Fìvospxì"
-
-msgid "Share"
-msgstr "Käsrin fì'ut"
 
 msgid "Who are you with?"
 msgstr "Pesumì nga lu?"
@@ -769,68 +757,11 @@ msgstr "Relä pukit ngop"
 msgid "Create event"
 msgstr "Tìlenit ngop"
 
-msgid "Update status"
-msgstr "Leykatem tìfkeytokit"
-
-msgid "Add photo/video"
-msgstr "Sung (rusikxa) relit"
-
-msgid "Ask question"
-msgstr "Pawm tìpawmit"
-
-msgid "SORT"
-msgstr "WÌNTXU"
-
-msgid "Top stories"
-msgstr "Txina ayvur"
-
-msgid "Most Recent"
-msgstr "Vur asok frato"
-
-msgid "Account Settings"
-msgstr "Fìpoä Sìfkeytok"
-
-msgid "Privacy Settings"
-msgstr "Le'aw 'awpoä Sìfkeytok"
-
-msgid "Log out"
-msgstr "Hum"
-
-msgid "Help"
-msgstr "Srung"
-
 msgid "Facebook"
 msgstr "Keypuk"
 
 msgid "Use webcam"
 msgstr "Sar rel arusikx stä'nìyuti"
-
-msgid "English (US)"
-msgstr "Na'vi"
-
-msgid "English (UK)"
-msgstr "Na'vi"
-
-msgid "Privacy"
-msgstr "Kxukea Säomum"
-
-msgid "Terms"
-msgstr "Lawa Aylì'u"
-
-msgid "More"
-msgstr "Nì'ul"
-
-msgid "Advertising"
-msgstr "Tìlusawk"
-
-msgid "Careers"
-msgstr "Tintìn"
-
-msgid "Create a Page"
-msgstr "Ngop Rìkti"
-
-msgid "Developers"
-msgstr "Ayngopyu"
 
 msgid "Add to my page's favourites"
 msgstr "Sung fì'uti ayuru a sunu rìkur oeyä frato"
@@ -840,9 +771,6 @@ msgstr "Tel fmawnit ìlä RSS"
 
 msgid "Report Page"
 msgstr "Kulat rìkit"
-
-msgid "like this"
-msgstr "fì'u sunu"
 
 msgid "talking about this"
 msgstr "fì'uteri perlltxe"
@@ -856,66 +784,21 @@ msgstr "Säomum"
 msgid "Friend activity"
 msgstr "Tìn eylanä"
 
-msgid "Photos"
-msgstr "Ayrel"
-
 msgid "See all"
 msgstr "Tse'a nìwotx"
-
-msgid "Recommended Pages"
-msgstr "Mawnawka ayrìk"
 
 msgid "Discover new games"
 msgstr "Run mipa ayuvanti"
 
-msgid "Find friends"
-msgstr "Run eylanit"
-
 msgid "Product/Service"
 msgstr "Kìte'e"
-
-msgid "Life event"
-msgstr "Tìlen tìreyä"
-
-msgid "Place"
-msgstr "Tsenge"
-
-msgid "Photo"
-msgstr "Rel"
 
 msgid "Status"
 msgstr "Tìfkeytok"
 
-msgid "Update info"
-msgstr "Leykatem säomumit"
-
-msgid "Activity log"
-msgstr "Sìnä 'ok"
-
-msgid "Likes"
-msgstr "Susunua ayfì'u"
-
-msgid "Map"
-msgstr "Atxkxerel"
-
-msgid "Born"
-msgstr "'Amongokx"
-
 # Just for me. :D
 msgid "Richard Littauer"
 msgstr "Taronyu"
-
-msgid "See friendship"
-msgstr "Tse'a tì'eylanti"
-
-msgid "Sponsored"
-msgstr "Awneyk"
-
-msgid "Create an advert"
-msgstr "Ngop nusewìt"
-
-msgid "Subscriptions"
-msgstr "Tsawne'a"
 
 msgid "More Recent Activity"
 msgstr "Mipa hemti nì'ul"
@@ -929,42 +812,14 @@ msgstr "Sung pätsìt ne ngey 'awm"
 msgid "Edit"
 msgstr "Latem"
 
-msgid "Now"
-msgstr "Set"
-
-msgid "Use Facebook as:"
-msgstr "Sar Keypukit na:"
-
 msgid "Translations"
 msgstr "Sìralpeng"
-
-msgid "Friend requests"
-msgstr "Ätxäle sì'eylanä"
 
 msgid "No new requests"
 msgstr "Kea mipa ayätxäle"
 
-msgid "See all friend requests"
-msgstr "Tse'a fraätxäleti"
-
-msgid "Messages"
-msgstr "Upxare"
-
-msgid "Send a new message"
-msgstr "Fpe' mipa 'upxareti"
-
-msgid "See all messages"
-msgstr "Tse'a fra'upxaret"
-
-msgid "Notifications"
-msgstr "Fmawn"
-
-msgid "See all notifications"
-msgstr "Tse'a fmawnit nìwotx"
-
 msgid "Post"
 msgstr "Yem"
-
 
 msgid "Select an image or video file on your computer"
 msgstr "Ftxey relit fu relit arusikx mì ngeyä eltu lefngap"
@@ -977,9 +832,6 @@ msgstr "Ke'ut ke ftxoley"
 
 msgid "Add year"
 msgstr "Sung zìsìtit"
-
-msgid "Change Cover"
-msgstr "Leykatem Keyit"
 
 msgid "Edit Profile Picture"
 msgstr "Leykatem Txina Relit"
@@ -999,15 +851,8 @@ msgstr "Wan Pa'oä Payfyat"
 msgid "Subscribed"
 msgstr "Tsere'a"
 
-msgid "More stories"
-msgstr "Nì'ul ayvul"
-
-msgid "Edit options"
-msgstr "Leykatem sìftxeyt"
-
 msgid "Find friends"
 msgstr "Fwew eylanit"
-
 
 msgid "Basic Information"
 msgstr "Ftuea säomum"
@@ -1042,9 +887,6 @@ msgstr "Ftang nirvong kìngit"
 msgid "No new requests"
 msgstr "Kea mipa ayätxäle."
 
-msgid "You like this"
-msgstr "Fì'u sunu ngaru."
-
 msgid "There are no more posts to show."
 msgstr "Ke lu lahea upxare a tsun tsive'a" 
 
@@ -1063,28 +905,12 @@ msgstr "Nong fì'u"
 msgid "Birthdays"
 msgstr "Ayftxozä"
 
-msgid "See more"
-msgstr "Tse'a nì'ul"
-
 msgid "Add friend"
 msgstr "Sung 'eylanit"
-
-msgid "Add Friend"
-msgstr "Sung 'eylanit"
-
-# breaks input
-msgid "What's on your mind?"
-msgstr "Teri pey fperìl ngal?"
 
 # doesn't work
 msgid "Go Offline to "
 msgstr "Wan ftu "
-
-msgid "Search"
-msgstr "Fwew" 
-
-msgid "shared a"
-msgstr "käsrin"
 
 msgid "via"
 msgstr "ìlä"
@@ -1097,9 +923,6 @@ msgstr "Muntxa si hi"
 
 # msgid "mutual friends"
 # msgstr "Eylan ateng"
-
-msgid "minutes ago"
-msgstr "ayswawkam"
 
 msgid "Videos"
 msgstr "Rusikxa ayrel"
@@ -1121,47 +944,6 @@ msgstr "Rusikxa ayrel"
 
 # msgid "Subscribe"
 # msgstr ""
-
-#. Section: Sidebar
-
-msgid "and"
-msgstr "sì"
-
-msgid "and"
-msgstr "ulte" Can't be both.
-
-msgid "Photos"
-msgstr "Ayrel"
-
-msgid "Notes"
-msgstr "Famreltsyìp"
-
-msgid "Questions"
-msgstr "Sìpawm"
-
-msgid "Links"
-msgstr "Ayfya'o"
-
-msgid "Apps and Games"
-msgstr "Sìkangkemvi sì Ayuvan"
-
-msgid "Apps"
-msgstr "Tìkangkemvi"
-
-msgid "Pages"
-msgstr "Ayrìk"
-
-msgid "Groups"
-msgstr "Fongu"
-
-msgid "News Feed"
-msgstr "Fmawnä Payfya"
-
-msgid "Favourites"
-msgstr "Ayu a sunu oeru frato"
-
-msgid "MORE"
-msgstr "NÌ'UL"
 
 #. Section: Groups
 
@@ -1206,102 +988,6 @@ msgstr "Hum pongut"
 
 msgid "Add friends to group"
 msgstr "Sung eylanit pongune"
-
-
-#. Section: Months and dates
-
-msgid "Friday"
-msgstr "Trrpuve"
-
-msgid "Monday"
-msgstr "Trrmuve"
-
-msgid "Tuesday"
-msgstr "Trrpxeyve"
-
-msgid "Wednesday"
-msgstr "Trrtsìve"
-
-msgid "Thursday"
-msgstr "Trrmrrve"
-
-msgid "Saturday"
-msgstr "Trrkive"
-
-msgid "Sunday"
-msgstr "Trr'awve"
-
-msgid "January"
-msgstr "'Awvea vospxì"
-
-msgid "February"
-msgstr "Muvea vospxì"
-
-msgid "March"
-msgstr "Pxeyvea vospxì"
-
-msgid "April"
-msgstr "Tsìvea vospxì"
-
-msgid "May"
-msgstr "Mrrvea vospxì"
-
-msgid "June"
-msgstr "Puvea vospxì"
-
-msgid "July"
-msgstr "Kivea vospxì"
-
-msgid "August"
-msgstr "Volvea vospxì"
-
-msgid "September"
-msgstr "Volawvea vospxì"
-
-msgid "October"
-msgstr "Vomuvea vospxì"
-
-msgid "November"
-msgstr "Vopeyvea vospxì"
-
-msgid "December"
-msgstr "Vosìvea vospxì"
-
-msgid "about an hour ago"
-msgstr "teri trrtsyìpkam"
-
-msgid "2 hours ago"
-msgstr "Mune srrtsyìpkam"
-
-msgid "3 hours ago"
-msgstr "Pxey srrtsyìpkam"
-
-msgid "4 hours ago"
-msgstr "Tsìng srrtsyìpkam"
-
-msgid "5 hours ago"
-msgstr "Mrr srrtsyìpkam"
-
-msgid "6 hours ago"
-msgstr "Pukap srrtsyìpkam"
-
-msgid "7 hours ago"
-msgstr "Kinä srrtsyìpkam"
-
-msgid "8 hours ago"
-msgstr "Mevol srrtsyìpkam"
-
-msgid "9 hours ago"
-msgstr "Mevolaw srrtsyìpkam"
-
-msgid "10 hours ago"
-msgstr "Mevomum srrtsyìpkam"
-
-msgid "11 hours ago"
-msgstr "Mevopey srrtsyìpkam"
-
-msgid "12 hours ago"
-msgstr "Mevosìng srrtsyìpkam"
 
 #. Section: Photos
 
@@ -1401,9 +1087,6 @@ msgstr "Ke 'eylan si"
 
 msgid "Report/Block"
 msgstr "Kulat/Fpe' neto"
-
-msgid "Close friends"
-msgstr "Sìltsana eylan"
 
 msgid "Acquaintences"
 msgstr "Súte"
@@ -1623,10 +1306,7 @@ msgstr "Ngateri"
 # msgid "Public"
 # msgstr ""
 
-msgid "Friends"
-msgstr "Eylan"
-
-# msgid "Friends excpet acquaintances"
+# msgid "Friends except acquaintances"
 # msgstr ""
 
 msgid "Only me"
@@ -1751,11 +1431,6 @@ msgstr "Sa'semä tsmukä 'itan"
 # msgid "Relationship"
 # msgstr "" 
 
-#.
-
-msgid "Family"
-msgstr "Soaia"
-
 msgid "Brother"
 msgstr "Tsmukan"
 
@@ -1803,9 +1478,6 @@ msgstr "Muntxatu (tuté)"
 msgid "Event for"
 msgstr "Tìlen fpi"
 
-msgid "By "
-msgstr "Fa "
-
 msgid "Going"
 msgstr "Kerayä"
 
@@ -1820,18 +1492,11 @@ msgstr "Kulat"
 
 ## Makes replying impossible.
 
-# msgid "Link"
-# msgstr "Tsaheylu"
-
-
 msgid "Video"
 msgstr "Rusikxa Rel"
 
 msgid "until"
 msgstr "vaykrr"
-
-msgid "Events"
-msgstr "Sìlen"
 
 msgid "Not Going"
 msgstr "Ke kerayä"
