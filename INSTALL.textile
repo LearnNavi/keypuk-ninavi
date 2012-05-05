@@ -1,0 +1,61 @@
+
+I strongly recommend that you use these scripts with Google Chrome.
+Chrome offers the easiest installation, fastest performance, and
+fewest bugs.  There are some instructions for other browsers at
+the bottom of this page.
+
+To install in Chrome, all you need to do is find your language in the
+table below, follow the link to the script homepage on userscripts.org,
+and click the green "Install" button on the top right-hand side of that page.
+
+Then visit facebook.com and you should see things in your language.
+No need to restart your browser, although you may need to refresh
+the page if you were already logged into Facebook.
+
+Note that there is a "Default" language for each script given in the table.
+In most cases, it's "en", which means you must have your Facebook 
+language set to "English (US)" for the translation to work correctly
+(you can set you language on Facebook's "Account Settings" page).
+If the default language is "es", you need to select "Español" (no region),
+and if it's "fr", select "Français (France)".
+
+This way, anything untranslated will appear in the default language;
+the idea being that Aragonese speakers will find Spanish preferable
+to English, etc.
+
+|_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
+| ach | en | Acholi | Acholi | 1.0.0 | Not yet released | David Ojara Prince |
+| an | es | Aragonese | Aragonés | 1.0.2 | "http://userscripts.org/scripts/show/130197":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
+| br | fr | Breton | Brezhoneg | 1.0.1 | "http://userscripts.org/scripts/show/127734":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
+| cak | es | Cakchiquel | Kaqchikel | 1.0.0 | Not yet released | Peter Rohloff |
+| eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.0 | "http://userscripts.org/scripts/show/129394":http://userscripts.org/scripts/show/129394 | Federico L. G. Faroldi |
+| fr-x-jer | en | Jèrriais | Jèrriais | 1.0.1 | "http://userscripts.org/scripts/show/130838":http://userscripts.org/scripts/show/130838 | Tony Scott Warren, Geraint Jennings |
+| ga | en | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
+| gd | en | Scottish Gaelic | Gàidhlig | 1.0.4 | "http://userscripts.org/scripts/show/126511":http://userscripts.org/scripts/show/126511 | Michael Bauer |
+| gup | en | Kunwinjku | Kunwinjku | 1.0.1 | "http://userscripts.org/scripts/show/129295":http://userscripts.org/scripts/show/129295 | Dean Yibarbuk, Andrew Manakgu |
+| gup-x-gud | en | Gundjeihmi | Gundjeihmi | 1.0.1 | "http://userscripts.org/scripts/show/129296":http://userscripts.org/scripts/show/129296 | Violet Lawson |
+| gv | en | Manx Gaelic | Gaelg | 1.0.0 | "http://userscripts.org/scripts/show/127270":http://userscripts.org/scripts/show/127270 | Chris Sheard |
+| hil | en | Hiligaynon | Hiligaynon | 1.0.4 | "http://userscripts.org/scripts/show/127142":http://userscripts.org/scripts/show/127142 | Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala |
+| ht | fr | Haitian Creole | Kreyòl Ayisyen | 1.0.1 | "http://userscripts.org/scripts/show/130010":http://userscripts.org/scripts/show/130010 | Jean Came Poulard |
+| ht-x-en | en | Haitian Creole | Kreyòl Ayisyen | 1.0.1 | "http://userscripts.org/scripts/show/126548":http://userscripts.org/scripts/show/126548 | Jean Came Poulard |
+| lij | it | Ligurian | Lìgure | 1.0.2 | "http://userscripts.org/scripts/show/129397":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
+| mus | en | Muskogee | Mvskoke | 1.0.0 | Not yet released | James Fife |
+| mwl | es | Mirandese | Mirandés | 1.0.0 | Not yet released | José Pedro Ferreira |
+| nav | en | Na'vi | Na'vi | 1.0.0 | In progress | Richard Littauer |
+| nv | en | Navajo | Diné bizaad | 1.0.0 | Not yet released | @NavajoNow |
+| ny | en | Chichewa | Chicheŵa | 1.0.0 | "http://userscripts.org/scripts/show/126642":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
+| ppl | es | Nawat | Nawat | 1.0.1 | "http://userscripts.org/scripts/show/126587":http://userscripts.org/scripts/show/126587 | Alan King |
+| ppl-x-en | en | Nawat | Nawat | 1.0.1 | "http://userscripts.org/scripts/show/126588":http://userscripts.org/scripts/show/126588 | Alan King |
+| rop | en | Kriol | Kriol | 1.0.1 | "http://userscripts.org/scripts/show/126589":http://userscripts.org/scripts/show/126589 | Greg Dickson |
+| shs | en | Secwepemctsín | Secwepemctsín | 1.0.1 | "http://userscripts.org/scripts/show/127738":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
+| son | en | Songhay | Soŋay | 1.0.1 | Not yet released | Mohomodou Houssouba, Abdoul Cissé |
+| yi | en | Yiddish | ייִדיש | 1.0.0 | Not yet released | Jordan Kutzik |
+
+
+To use these scripts in other browsers, you'll first need to install
+a special addon. Then, you should be able to install using the
+instructions above.  I've only tested this with Firefox.
+
+* "Firefox":http://www.mozilla.com/en-US/firefox/firefox.html ("Addon":https://addons.mozilla.org/firefox/addon/748)
+* "Internet Explorer":http://windows.microsoft.com/en-us/internet-explorer/products/ie/home ("Addon":http://www.bhelpuri.net/Trixie/)
+* "Safari":http://www.apple.com/safari/ ("Addon":http://8-p.info/greasekit/)

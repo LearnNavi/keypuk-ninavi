@@ -1,0 +1,316 @@
+#. Lines like this one beginning with "#." are comments; no need to translate!
+1 mutual friend
+1 NEW STORY
+#. Appears next to a post; means the post has been shared one time
+1 share
+#. First two %a's are names, third is something like "5 others"
+%a, %a and %a like this.
+#. %a is someone's name
+%a added a new photo.
+#. First %a is a name, second %a is a name or else something like "6 others"
+%a and %a like this.
+#. First two as above, and final %a is something like "a link"
+%a and %a shared %a.
+#. Link at bottom of home page (under "More") to info about Facebook
+About
+about an hour ago
+about a minute ago
+Account Settings
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a commented on a %a.
+Activity Log
+Add Friend
+#. Appears at top of home timeline, with "Update Status", "Ask Question"
+Add Photo / Video
+#. Link at bottom of home page (under "More") to info about Facebook ads
+Advertising
+#. Time stamp on a post. You might also translate as "Just now"
+a few seconds ago
+#. For example, "John Doe likes Linux."; often under Sponsored Ads
+%a likes %a.
+#. First %a is a person's name, second one is "post", "status", "photo", ...
+%a likes a %a.
+#. %a stands for a person's name
+%a likes this.
+#. %a stands for something like "3 people"
+%a like this.
+#. Always a link. Used in longer sentences like "John Doe shared a link"
+a link
+#. Heading above the apps you use, in left-hand navigation on home page
+APPS
+#. One of the entries in the APPS list for some users
+Apps and Games
+#. Format. %A = day of the week ("Saturday") and %s = the time ("3:15am")
+%A at %s
+#. First %a is a person, second one is something like "a link"
+%a shared %a.
+#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+Ask Question
+#. Format. %B = name of the month ("February"), and %d = day of the month ("20")
+%B %d
+#. Format. %B and %d as above, %s = string representing the time ("3:15am")
+%B %d at %s
+#. Format. %B and %d as above, %Y = four digit year ("2012")
+%B %d, %Y
+#. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
+%B %d, %Y at %s
+Born
+#. Appears below shared items, indicating the original author/creator
+By:
+#. Button label
+Cancel
+#. Link at bottom of home page (under "More") to info about jobs at Facebook
+Careers
+#. Link that allows you to change the big photo at the top of your timeline
+Change Cover
+#. Label on tab for chatting with friends
+#. "Offline" means you're not currently logged into the chat system
+Chat (Offline)
+Close
+#. A link that takes you to a list of your closest friends on Facebook
+Close Friends
+#. Verb. A link under a post that allows you to comment on the post.
+Comment
+#. Button label; confirm a friend request
+Confirm
+Create an Ad
+#. Link at bottom of home page (under "More")
+Create a Page
+Create Group...
+#. Link at bottom of home page (under "More") to info for software developers
+Developers
+#. %d stands for a number, no need to translate it
+%d hours ago
+#. %d stands for a number, no need to translate it
+%d minutes ago
+#. %d stands for a number, no need to translate it
+%d mutual friends
+#. %d stands for a number, no need to translate it
+%d NEW STORIES
+#. %d stands for a number, no need to translate it; "%d other people"
+#. Always a link. Used in sentences like "John Doe and 7 others like this."
+%d others
+#. %d stands for a number; used in sentences like "%d people like this."
+%d people
+#. %d stands for a number, no need to translate it
+%d seconds ago
+#. %d stands for a number, no need to translate it
+#. This means a post has been shared %d times
+%d shares
+#. Appears at the bottom of your home time line, opposite "More Stories"
+#. Allows you to hide certain stories from your home page
+Edit Options
+#. Attached to each post on your personal timeline
+Edit or Remove
+#. Link that lets you change your language settings
+#. Please translate to the name of your language, written in the language itself
+English (US)
+#. In the "New Message" dialog
+Enter a friend's name or email address
+#. A link to a list of events that you've been invited to
+Events
+#. A link that shows you a list of your relatives on Facebook
+Family
+#. In left-hand column on home page, above links to "News Feed", "Messages", etc
+FAVORITES
+#. Link to a page that allows you to search your address books for FB friends
+#. Appears in the "Friend Requests" dialog and when you click the "Friends" link
+Find Friends
+Find More Pages
+#. In search box that lets you search for friends that are available to chat
+Friends on Chat
+#. People who have asked to be your friend on Facebook; top left of screen
+Friend Requests
+#. A link that takes you to a list of all your Facebook friends
+Friends
+#. Heading above your lists of friends ("Work", "Family", etc.)
+FRIENDS
+#. Heading above the groups you're in, left-hand navigation on home page
+GROUPS
+#. Link at bottom of home page ("More"); also in dropdown menu next to "Home"
+Help
+#. Link that takes you to your home timeline; always visible at top-right
+Home
+Life Event
+#. Verb. A link that allows you to "like" a post or a comment; "I like this"
+Like
+#. Plural noun. Link that shows you a list of music, books, etc. you like on FB
+#. Appears at the top of your profile, after Friends, Photos, Map, ...
+Likes
+Like This Page
+#. Always a link. Used in longer sentences, like "%a commented on a link."
+link
+Links
+#. Was the heading above your lists of friends ("Work", "Family", etc.)
+LISTS
+Log Out
+#. Link to a map of the places someone has been
+Map
+#. In the "New Message" dialog
+Message:
+Messages
+#. Photographs uploaded from someone's mobile device
+Mobile Uploads
+#. Link in bottom navigation. Click it to see additional links: Careers, etc.
+More
+#. In left-hand navigation to the right of GROUPS, APPS when you mouse over
+MORE
+#. Appears at the bottom of your home time line; click to load more posts
+More Stories
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+Most Recent
+#. Appears in left-hand navigation for some users
+Music
+#. Not sure now where this appears, a figment?
+New Group...
+New Message
+#. Appears in left-hand navigation of home page
+News Feed
+Notes
+Notifications
+#. Button label; postpone confirmation of a friend request
+Not Now
+#. A link that takes you to the latest posts on your timeline
+Now
+#. Heading above the list of your FB pages; left-hand navigation on home page
+PAGES
+People who like this
+People You May Know
+#. Appears on profile above the "What's on your mind?" prompt, after "Status"
+Photo
+#. Always a link. Used in longer sentences, like "%a commented on a photo."
+photo
+#. Link to a user's photos, at top of profile, between "Friends" and "Map"
+Photos
+#. Link that allows you to "check in" somewhere
+#. Appears on profile above "What's on your mind?", after "Status" and "Photo"
+Place
+#. Appears, e.g., on your Timeline, showing places you visited during the year
+Places
+#. Appears in left-hand navigation for some users, under "APPS"
+Pokes
+#. Always a link. Used in longer sentences, like "%a commented on a post."
+post
+#. Link at the bottom of home page to Facebook's privacy policy
+Privacy
+Privacy Settings
+#. Appears when you mouse over your name in the top navigation
+Profile
+#. Appears under APPS for some users in left-hand navigation
+Questions
+#. Box near the top of your personal timeline showing your recent actions on FB
+Recent Activity
+#. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
+Recommended Pages
+#. When you share a link in a comment, use this to remove the preview image
+Remove Preview
+#. Option on every post on your personal timeline (now "Highlight"?)
+Resize
+#. Text that appears in the search box at the top of the page
+Search
+#. Link in right-hand column near "Recommended Pages" and "People You May Know"
+See All
+#. In the drop-down menu with recent Friend Requests
+See All Friend Requests
+See All Messages
+See All Notifications
+#. A link that shows interactions and photos involving two Facebook friends
+#. One place it appears is in the "gear" menu on a friend's profile
+See Friendship
+#. See more of a post that was truncated because it was very long
+See More
+#. Link that appears under a post in another language; click it to translate
+See Translation
+#. Label on button in "New Message" dialog to send the message
+Send
+#. Link that opens the "New Message" dialog
+Send a New Message
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
+Share
+#. A link that allows your to sort posts by "most recent" or "top stories"
+SORT
+#. Appears above paid advertisements
+Sponsored
+#. Always a link. Used in longer sentences, like "%a commented on a status."
+status
+#. This is a Facebook "status update", not a relationship status
+#. Appears on profile above the "What's on your mind?" prompt
+Status
+#. Top of profile, after Friends, Photos, Map, ...
+Subscriptions
+Tag Friends
+#. Link at the bottom of home page to Facebook's "Terms of Service"
+Terms
+#. Real time news feed in the right-hand column
+#. "Nuacht Bheo" = "Live News" in Irish; "Instant Information" in Spanish
+Ticker
+#. Appears as a link when you scroll down on your profile, next to "Now"
+Timeline
+#. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
+%T near %a
+#. Specifies recipient when you send a private message
+To:
+#. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
+Top Stories
+#. Verb. See "Like"
+Unlike
+#. Label on a button that allows you to edit your personal information
+Update Info
+#. This is a Facebook "status update", not a relationship status
+#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+Update Status
+Use Facebook as:
+#. %d stands for a number, no need to translate it
+View all %d comments
+Wall Photos
+#. Appears in left-hand navigation for new users
+Welcome
+#. Main prompt when you enter in a new status update
+What's on your mind?
+#. Prompt when you comment on a post
+Write a comment...
+#. Appears next to a post or comment as a timestamp
+Yesterday
+#. Appears next to a post or comment as a timestamp; %s is the time of day
+Yesterday at %s
+#. %a stands for something like "4 others"
+You and %a like this.
+You like this.
+#. Month Name
+January
+#. Month Name
+February
+#. Month Name
+March
+#. Month Name
+April
+#. Month Name
+May
+#. Month Name
+June
+#. Month Name
+July
+#. Month Name
+August
+#. Month Name
+September
+#. Month Name
+October
+#. Month Name
+November
+#. Month Name
+December
+#. Day of the Week
+Monday
+#. Day of the Week
+Tuesday
+#. Day of the Week
+Wednesday
+#. Day of the Week
+Thursday
+#. Day of the Week
+Friday
+#. Day of the Week
+Saturday
+#. Day of the Week
+Sunday

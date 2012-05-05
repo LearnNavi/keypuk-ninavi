@@ -1,11 +1,11 @@
 Keypuk NìNa’vi
 ==============
 A Greasemonkey Userscript to alter Facebook to display words in Na'vi.
-(New: And Dothraki! See below.)
+(New: And Dothraki and Valyrian! See below.)
 
 There is a [Discussion and community page](http://forum.learnnavi.org/navify-the-web/keypuk-ninavi-%28navi-facebook-project%29) on the LearnNavi.org forums.
 
-The code is from [Secwepemc Facebook](https://github.com/neskie/secwepemc-facebook) written by Neskie Manuel, and the Na'vi translations are our own. Secwepemc Facebook is no longer updated, as sadly Manuel has passed away. We are extremely grateful for his work.
+The code is from [Secwepemc Facebook](https://github.com/neskie/secwepemc-facebook) written by Neskie Manuel, and the Na'vi translations are our own. Secwepemc Facebook is no longer updated, as sadly Manuel has passed away. We are extremely grateful for his work. This work has been improved upon greatly by [Kevin Scanne](https://github.com/kscanne/secwepemc-facebook), of which this could now be considered a fork.
 
 Requirements
 ------------
@@ -24,6 +24,8 @@ Installation
 2. Click [here](https://github.com/RichardLitt/keypuk-ninavi/raw/master/keypuk-ninavi.user.js) to install the script.
 3. Navigate to Facebook and you should see some of the text has been translated.
 4. (optional albeit recommended) [Learn the language!](http://learnnavi.org)
+
+For developers: Here are [installation instructions](https://github.com/kscanne/secwepemc-facebook/blob/master/INSTALL.textile)
 
 But not everything is translated!
 -----------------------------
